@@ -1,0 +1,755 @@
+# Oekologisch Leben Hidden / Appendix Pages
+
+Published main-domain pages that are not part of the primary visible site flow and should be treated as appendix context.
+
+## PDC Homa-Hof 2026 — Test v2
+
+- URL: https://oekologisch-leben.org/pdc-test-v2/
+- Slug: `pdc-test-v2`
+- Modified: `2026-04-10T11:19:45`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Homa-Hof Heiligenberg — Permakultur Design Kurs 2026: https://oekologisch-leben.org/wp-content/uploads/2026/04/Homa-Hof-1.jpg
+- Homa-Hof Heiligenberg: https://oekologisch-leben.org/wp-content/uploads/2026/04/Homa-Hof.jpg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Permakultur Design Zertifikationskurs · 2026
+- PDC Homa-Hof Heiligenberg
+- 23. August – 6. September 2026 · 14 Tage · 100 Stunden
+- Kursstart in
+- –
+- Tage
+- Std
+- Min
+- 25
+- Plätze
+- 100h
+- Training
+- PRI
+- Zertifiziert
+- Jetzt anmelden →
+- Das Fundament
+- Was ist Permakultur?
+- Permakultur ist eine ganzheitliche Design-Methode für nachhaltige Lebensräume — entwickelt von Bill Mollison und David Holmgren in den 1970er Jahren in Australien. Der Begriff verbindet
+- Permaculture
+- (Permanent Agriculture) mit
+- Culture
+- (Permanente Kultur des Zusammenlebens).
+- Im Kern geht es darum, die Muster und Prinzipien der Natur zu beobachten und auf menschliche Siedlungen, Gärten und Gemeinschaften anzuwenden — für Systeme, die sich selbst erhalten, reichlich produzieren und die Erde heilen.
+- 🌍
+- Die Erde pflegen
+- Böden, Gewässer und alles Leben regenerieren statt ausbeutenF.
+- 👤
+- Die Menschen pflegen
+- Gemeinschaft, Gesundheit und gegenseitige Unterstützung fördern.
+- 🔄
+- Gerechte Verteilung
+- Überschüsse teilen — mit Menschen, Tieren, Pflanzen und Erde.
+- 🌿
+- PRI Design Zertifikat
+- Das
+- PRI-Zertifikat
+- (Permaculture Research Institute) ist die international anerkannte Qualifikation für Permakultur-Designer — weltweit gültig, von Australien bis Europa.
+- +100
+- Stunden Training
+- 14
+- Tage Intensiv
+- Dein Kursleiter
+- Christoff Schneider DcP
+- seit 2008
+- von Bill Mollison
+- „Einziger deutschsprachiger PRI-zertifizierter Permakultur-Lehrer weltweit — direkt ausgebildet und zertifiziert von
+- Bill Mollison
+- , dem Begründer der Permakultur.“
+- Christoff Schneider arbeitet seit über 15 Jahren als Permakultur-Designer und Trainer auf vier Kontinenten. Er hat Dutzende Projekte von Australien über Panama bis Österreich begleitet — von kleinen Hausgärten bis zu großen Gemeinschaftsprojekten.
+- Als Gründer von
+- Ökologisch-Leben
+- und Betreiber des Permakultur-Projekts
+- Sanaera
+- in Panama verbindet er tiefes Fachwissen mit praktischer Erfahrung. Sein Unterrichtsstil ist direkt, praxisnah und inspirierend.
+- ✓ PRI-Zertifikat seit 2008
+- ✓ Von Bill Mollison zertifiziert
+- ✓ 15+ Jahre Erfahrung
+- ✓ 4 Kontinente
+- ✓ Gründer Ökologisch-Leben
+- ⭐ Einziger deutschspr. PRI-Lehrer
+- 15+
+- Jahre Erfahrung
+- 50+
+- PDC-Kurse geleitet
+- 4
+- Kontinente
+- 2008
+- PRI seit
+- 14 Tage auf dem Homa-Hof
+- Kursablauf
+- Woche 1 · Tage 1–7
+- Fundamente & Theorie
+- Permakultur-Ethik & Designprinzipien
+- Standortanalyse & Beobachtung
+- Klimadiagramme & Zonensystem
+- Boden, Wasser, Energie
+- Erste Begehungen am Homa-Hof
+- Homa-Feuer Einführung täglich
+- Woche 2 · Tage 8–14
+- Design & Praxis
+- Waldgarten-Gestaltung praktisch
+- Wasserrückhalt & Swales anlegen
+- Lehmbauprojekte am Hof
+- Eigenes Design-Projekt entwickeln
+- Präsentationen & Feedback
+- Zertifikatsübergabe & Abschluss
+- Typischer Kurstag
+- 06:00
+- 🔥 Agnihotra (opt.)
+- 08:00
+- 🍽️ Bio-Frühstück
+- 09:00
+- 📖 Theorie-Input
+- 11:00
+- 🌿 Praxis am Hof
+- 13:00
+- 🥗 Bio-Mittagessen
+- 14:30
+- 📐 Design-Workshops
+- 18:00
+- 🌅 Abend-Feuer
+- 19:30
+- 🌙 Gemeinschaftsabend
+- Was du lernst
+- Kursinhalte
+- 🏡
+- Nachhaltige Lebensraumplanung
+- Ganzheitliche Gestaltung von Höfen, Gärten und Landschaften nach φ-Proportionen der Natur.
+- 🌲
+- Waldgärten & Agroforstsysteme
+- Mehrschichtige essbare Wälder — von Baumkrone bis Bodendecker anlegen und pflegen.
+- 💧
+- Wassermanagement
+- Swales, Teiche, Zisternen — Wasser im Kreislauf halten und regenerative Systeme bauen.
+- 🌱
+- Bodenaufbau & Erdressourcen
+- Humus aufbauen, Kompostierung meistern, Mulchtechniken — lebendige Böden als Grundlage.
+- 🐚
+- Mustersprache der Natur
+- Spiralen, Fraktale, Verzweigungen — universelle Muster verstehen und im Design anwenden.
+- 🗺️
+- Regionale Permakultur
+- Strategien für Mitteleuropa, Bodenseeraum, Alpenvorland — praxisnah und klimaangepasst.
+- 🔥
+- Homa-Feuerzeremonien
+- Agnihotra — uralte vedische Feuerpraxis und ihre regenerative Wirkung auf Mensch und Boden.
+- 📐
+- Eigenes Design-Projekt
+- Jeder entwickelt sein eigenes Permakultur-Projekt — die Grundlage für das PRI-Zertifikat.
+- Der Kursort
+- Homa-Hof Heiligenberg
+- Der Homa-Hof in Heiligenberg (Baden-Württemberg) ist ein lebendiger Permakultur-Betrieb, der vedische Homa-Feuerpraxis mit biodynamischer Landwirtschaft verbindet. Inmitten des Linzgaus, zwischen Bodensee und Schwäbischer Alb.
+- 📍
+- Oberhaslach 6, 88633 Heiligenberg
+- Baden-Württemberg, Deutschland
+- 🌳
+- Lebendiger Permakultur-Betrieb mit Waldgarten
+- 🍽️
+- Biologisch-vegetarische Vollverpflegung
+- Übernachtung vor Ort in verschiedenen Zimmern
+- Tägliche Homa-Feuerzeremonien (Agnihotra)
+- Homa-Hof Website →
+- Investition in deine Zukunft
+- Kursgebühren
+- Empfohlen
+- Early Bird
+- 1.250
+- €
+- bis 10. Juli 2026
+- Du sparst
+- 250€
+- gegenüber Regelpreis
+- Sozialpreis
+- 1.350
+- Ermäßigt
+- Für Menschen mit eingeschränktem Budget
+- Regelpreis
+- 1.500
+- ab 11. Juli 2026
+- Reguläre Kursgebühr
+- Zusatzoption
+- Übernachtung + Bio-Vollverpflegung
+- 14 Tage · biologisch-vegetarisch · vor Ort am Homa-Hof
+- 668 – 768€
+- je nach Zimmertyp · 14 Tage
+- Jetzt anmelden — Platz sichern →
+- Nur 25 Plätze · Early Bird endet 10. Juli 2026
+- Stimmen der Teilnehmenden
+- Was andere sagen
+- „
+- Der PDC bei Christoff hat mein Leben verändert. Nicht dramatisch — einfach tief. Ich sehe Landschaft, Wasser, Boden jetzt mit anderen Augen. Das Zertifikat ist ein Geschenk für die nächsten 40 Jahre.
+- M
+- Maria K.
+- PDC-Absolventin · Österreich
+- 14 Tage intensiv, aber nie ermüdend. Christoff lehrt mit einer Klarheit und Begeisterung, die ansteckt. Die Kombination aus Homa-Feuer und Permakultur ist einzigartig in Europa.
+- T
+- Thomas R.
+- PDC-Absolvent · Deutschland
+- Das PRI-Zertifikat hat mir Türen geöffnet, die ich nicht kannte. Ich unterrichte jetzt selbst Permakultur-Grundkurse in meiner Region — alles begann hier am Homa-Hof.
+- S
+- Sandra M.
+- PDC-Absolventin · Schweiz
+- Häufige Fragen
+- FAQ
+- Brauche ich Vorkenntnisse?
+- +
+- Nein. Der PDC richtet sich sowohl an Einsteiger ohne Vorkenntnisse als auch an erfahrene Gärtner, Landwirte oder Planer. Das Kursmaterial wird individuell angepasst. Alles, was du mitbringen solltest, ist Neugier und Lernbereitschaft.
+- Was ist im Kursbeitrag enthalten?
+- Der Kursbeitrag umfasst: 100 Stunden Unterricht und Praxis, umfangreiches Kursmaterial, persönliches Design-Projekt mit Feedback, Exkursionen und Begehungen am Hof, Homa-Feuer-Teilnahme und das PRI Design-Zertifikat.
+- Nicht
+- enthalten: Unterkunft und Verpflegung (separat buchbar: 668–768€ für 14 Tage).
+- Was ist das PRI-Zertifikat — und warum ist es besonders?
+- Das PRI-Zertifikat (Permaculture Research Institute) wurde von Bill Mollison gegründet — dem Erfinder der Permakultur. Es ist international das angesehenste Permakultur-Zertifikat weltweit. Christoff Schneider ist der einzige deutschsprachige Kursleiter der Welt, der direkt von Bill Mollison zertifiziert wurde und diese Zertifizierung weitergeben darf.
+- Kann ich auch ohne Übernachtung teilnehmen?
+- Ja. Übernachtung und Verpflegung am Homa-Hof sind optional. Wir empfehlen jedoch die Übernachtung vor Ort, da das Gemeinschaftserlebnis — gemeinsame Mahlzeiten, Abendgespräche, morgendliches Agnihotra — ein wesentlicher Teil der Lernerfahrung ist.
+- Wie lautet die Anmeldeadresse und wie zahle ich?
+- Anmeldung und Buchung erfolgen direkt über den Homa-Hof Heiligenberg. Kontakt: 📧 info@homa-hof-heiligenberg.de · 📞 +49 (0)7552 938760. Du kannst auch über den Anmelde-Button auf dieser Seite direkt zum Buchungsformular.
+- Deine Reise beginnt hier
+- Werde Teil der Permakultur-Bewegung
+- 14 intensive Tage auf dem Homa-Hof. Echte Praxis, echter Boden, echte Gemeinschaft. Das PRI-Zertifikat öffnet dir weltweit Türen — gelehrt vom einzigen deutschsprachigen PRI-Lehrer.
+- Early Bird: 1.250€ — nur noch bis 10. Juli 2026
+- Lernzeit
+- Zertifikat
+- Fragen? · 📧 info@homa-hof-heiligenberg.de · 📞 +49 (0)7552 938760
+
+### Full Visible DOM Text
+- PDC Homa-Hof 2026 — Test v2 – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- PDC Homa-Hof 2026 — Test v2
+- Permakultur Design Zertifikationskurs · 2026
+- PDC Homa-Hof Heiligenberg
+- 23. August – 6. September 2026 · 14 Tage · 100 Stunden
+- Kursstart in
+- –
+- Tage
+- Std
+- Min
+- 25
+- Plätze
+- 100h
+- Training
+- PRI
+- Zertifiziert
+- Jetzt anmelden →
+- Das Fundament
+- Was ist Permakultur?
+- Permakultur ist eine ganzheitliche Design-Methode für nachhaltige Lebensräume — entwickelt von Bill Mollison und David Holmgren in den 1970er Jahren in Australien. Der Begriff verbindet
+- Permaculture
+- (Permanent Agriculture) mit
+- Culture
+- (Permanente Kultur des Zusammenlebens).
+- Im Kern geht es darum, die Muster und Prinzipien der Natur zu beobachten und auf menschliche Siedlungen, Gärten und Gemeinschaften anzuwenden — für Systeme, die sich selbst erhalten, reichlich produzieren und die Erde heilen.
+- 🌍
+- Die Erde pflegen
+- Böden, Gewässer und alles Leben regenerieren statt ausbeutenF.
+- 👤
+- Die Menschen pflegen
+- Gemeinschaft, Gesundheit und gegenseitige Unterstützung fördern.
+- 🔄
+- Gerechte Verteilung
+- Überschüsse teilen — mit Menschen, Tieren, Pflanzen und Erde.
+- 🌿
+- PRI Design Zertifikat
+- Das
+- PRI-Zertifikat
+- (Permaculture Research Institute) ist die international anerkannte Qualifikation für Permakultur-Designer — weltweit gültig, von Australien bis Europa.
+- +100
+- Stunden Training
+- 14
+- Tage Intensiv
+- Dein Kursleiter
+- Christoff Schneider DcP
+- seit 2008
+- von Bill Mollison
+- „Einziger deutschsprachiger PRI-zertifizierter Permakultur-Lehrer weltweit — direkt ausgebildet und zertifiziert von
+- Bill Mollison
+- , dem Begründer der Permakultur.“
+- Christoff Schneider arbeitet seit über 15 Jahren als Permakultur-Designer und Trainer auf vier Kontinenten. Er hat Dutzende Projekte von Australien über Panama bis Österreich begleitet — von kleinen Hausgärten bis zu großen Gemeinschaftsprojekten.
+- Als Gründer von
+- Ökologisch-Leben
+- und Betreiber des Permakultur-Projekts
+- Sanaera
+- in Panama verbindet er tiefes Fachwissen mit praktischer Erfahrung. Sein Unterrichtsstil ist direkt, praxisnah und inspirierend.
+- ✓ PRI-Zertifikat seit 2008
+- ✓ Von Bill Mollison zertifiziert
+- ✓ 15+ Jahre Erfahrung
+- ✓ 4 Kontinente
+- ✓ Gründer Ökologisch-Leben
+- ⭐ Einziger deutschspr. PRI-Lehrer
+- 15+
+- Jahre Erfahrung
+- 50+
+- PDC-Kurse geleitet
+- 4
+- Kontinente
+- 2008
+- PRI seit
+- 14 Tage auf dem Homa-Hof
+- Kursablauf
+- Woche 1 · Tage 1–7
+- Fundamente & Theorie
+- Permakultur-Ethik & Designprinzipien
+- Standortanalyse & Beobachtung
+- Klimadiagramme & Zonensystem
+- Boden, Wasser, Energie
+- Erste Begehungen am Homa-Hof
+- Homa-Feuer Einführung täglich
+- Woche 2 · Tage 8–14
+- Design & Praxis
+- Waldgarten-Gestaltung praktisch
+- Wasserrückhalt & Swales anlegen
+- Lehmbauprojekte am Hof
+- Eigenes Design-Projekt entwickeln
+- Präsentationen & Feedback
+- Zertifikatsübergabe & Abschluss
+- Typischer Kurstag
+- 06:00
+- 🔥 Agnihotra (opt.)
+- 08:00
+- 🍽️ Bio-Frühstück
+- 09:00
+- 📖 Theorie-Input
+- 11:00
+- 🌿 Praxis am Hof
+- 13:00
+- 🥗 Bio-Mittagessen
+- 14:30
+- 📐 Design-Workshops
+- 18:00
+- 🌅 Abend-Feuer
+- 19:30
+- 🌙 Gemeinschaftsabend
+- Was du lernst
+- Kursinhalte
+- 🏡
+- Nachhaltige Lebensraumplanung
+- Ganzheitliche Gestaltung von Höfen, Gärten und Landschaften nach φ-Proportionen der Natur.
+- 🌲
+- Waldgärten & Agroforstsysteme
+- Mehrschichtige essbare Wälder — von Baumkrone bis Bodendecker anlegen und pflegen.
+- 💧
+- Wassermanagement
+- Swales, Teiche, Zisternen — Wasser im Kreislauf halten und regenerative Systeme bauen.
+- 🌱
+- Bodenaufbau & Erdressourcen
+- Humus aufbauen, Kompostierung meistern, Mulchtechniken — lebendige Böden als Grundlage.
+- 🐚
+- Mustersprache der Natur
+- Spiralen, Fraktale, Verzweigungen — universelle Muster verstehen und im Design anwenden.
+- 🗺️
+- Regionale Permakultur
+- Strategien für Mitteleuropa, Bodenseeraum, Alpenvorland — praxisnah und klimaangepasst.
+- 🔥
+- Homa-Feuerzeremonien
+- Agnihotra — uralte vedische Feuerpraxis und ihre regenerative Wirkung auf Mensch und Boden.
+- 📐
+- Eigenes Design-Projekt
+- Jeder entwickelt sein eigenes Permakultur-Projekt — die Grundlage für das PRI-Zertifikat.
+- Der Kursort
+- Homa-Hof Heiligenberg
+- Der Homa-Hof in Heiligenberg (Baden-Württemberg) ist ein lebendiger Permakultur-Betrieb, der vedische Homa-Feuerpraxis mit biodynamischer Landwirtschaft verbindet. Inmitten des Linzgaus, zwischen Bodensee und Schwäbischer Alb.
+- 📍
+- Oberhaslach 6, 88633 Heiligenberg
+- Baden-Württemberg, Deutschland
+- 🌳
+- Lebendiger Permakultur-Betrieb mit Waldgarten
+- 🍽️
+- Biologisch-vegetarische Vollverpflegung
+- Übernachtung vor Ort in verschiedenen Zimmern
+- Tägliche Homa-Feuerzeremonien (Agnihotra)
+- Homa-Hof Website →
+- Investition in deine Zukunft
+- Kursgebühren
+- Empfohlen
+- Early Bird
+- 1.250
+- €
+- bis 10. Juli 2026
+- Du sparst
+- 250€
+- gegenüber Regelpreis
+- Sozialpreis
+- 1.350
+- Ermäßigt
+- Für Menschen mit eingeschränktem Budget
+- Regelpreis
+- 1.500
+- ab 11. Juli 2026
+- Reguläre Kursgebühr
+- Zusatzoption
+- Übernachtung + Bio-Vollverpflegung
+- 14 Tage · biologisch-vegetarisch · vor Ort am Homa-Hof
+- 668 – 768€
+- je nach Zimmertyp · 14 Tage
+- Jetzt anmelden — Platz sichern →
+- Nur 25 Plätze · Early Bird endet 10. Juli 2026
+- Stimmen der Teilnehmenden
+- Was andere sagen
+- „
+- Der PDC bei Christoff hat mein Leben verändert. Nicht dramatisch — einfach tief. Ich sehe Landschaft, Wasser, Boden jetzt mit anderen Augen. Das Zertifikat ist ein Geschenk für die nächsten 40 Jahre.
+- M
+- Maria K.
+- PDC-Absolventin · Österreich
+- 14 Tage intensiv, aber nie ermüdend. Christoff lehrt mit einer Klarheit und Begeisterung, die ansteckt. Die Kombination aus Homa-Feuer und Permakultur ist einzigartig in Europa.
+- T
+- Thomas R.
+- PDC-Absolvent · Deutschland
+- Das PRI-Zertifikat hat mir Türen geöffnet, die ich nicht kannte. Ich unterrichte jetzt selbst Permakultur-Grundkurse in meiner Region — alles begann hier am Homa-Hof.
+- S
+- Sandra M.
+- PDC-Absolventin · Schweiz
+- Häufige Fragen
+- FAQ
+- Brauche ich Vorkenntnisse?
+- +
+- Nein. Der PDC richtet sich sowohl an Einsteiger ohne Vorkenntnisse als auch an erfahrene Gärtner, Landwirte oder Planer. Das Kursmaterial wird individuell angepasst. Alles, was du mitbringen solltest, ist Neugier und Lernbereitschaft.
+- Was ist im Kursbeitrag enthalten?
+- Der Kursbeitrag umfasst: 100 Stunden Unterricht und Praxis, umfangreiches Kursmaterial, persönliches Design-Projekt mit Feedback, Exkursionen und Begehungen am Hof, Homa-Feuer-Teilnahme und das PRI Design-Zertifikat.
+- Nicht
+- enthalten: Unterkunft und Verpflegung (separat buchbar: 668–768€ für 14 Tage).
+- Was ist das PRI-Zertifikat — und warum ist es besonders?
+- Das PRI-Zertifikat (Permaculture Research Institute) wurde von Bill Mollison gegründet — dem Erfinder der Permakultur. Es ist international das angesehenste Permakultur-Zertifikat weltweit. Christoff Schneider ist der einzige deutschsprachige Kursleiter der Welt, der direkt von Bill Mollison zertifiziert wurde und diese Zertifizierung weitergeben darf.
+- Kann ich auch ohne Übernachtung teilnehmen?
+- Ja. Übernachtung und Verpflegung am Homa-Hof sind optional. Wir empfehlen jedoch die Übernachtung vor Ort, da das Gemeinschaftserlebnis — gemeinsame Mahlzeiten, Abendgespräche, morgendliches Agnihotra — ein wesentlicher Teil der Lernerfahrung ist.
+- Wie lautet die Anmeldeadresse und wie zahle ich?
+- Anmeldung und Buchung erfolgen direkt über den Homa-Hof Heiligenberg. Kontakt: 📧 info@homa-hof-heiligenberg.de · 📞 +49 (0)7552 938760. Du kannst auch über den Anmelde-Button auf dieser Seite direkt zum Buchungsformular.
+- Deine Reise beginnt hier
+- Werde Teil der Permakultur-Bewegung
+- 14 intensive Tage auf dem Homa-Hof. Echte Praxis, echter Boden, echte Gemeinschaft. Das PRI-Zertifikat öffnet dir weltweit Türen — gelehrt vom einzigen deutschsprachigen PRI-Lehrer.
+- Early Bird: 1.250€ — nur noch bis 10. Juli 2026
+- Lernzeit
+- Zertifikat
+- Fragen? · 📧 info@homa-hof-heiligenberg.de · 📞 +49 (0)7552 938760
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## PDC Homa-Hof Heiligenberg 2026
+
+- URL: https://oekologisch-leben.org/pdc-homa-hof/
+- Slug: `pdc-homa-hof`
+- Modified: `2026-04-09T21:10:04`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Homa-Hof Heiligenberg: https://oekologisch-leben.org/wp-content/uploads/2026/04/homa-hof-pdc.jpg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Permakultur Design Zertifikationskurs
+- PDC Homa-Hof
+- Heiligenberg 2026
+- 23. August – 6. September 2026
+- 100 Stunden · 14 Tage · 25 Plätze
+- Early Bird
+- 1.250 €
+- bis 10. Juli 2026
+- Empfohlen
+- Spezialpreis
+- 1.350 €
+- begrenzte Plätze
+- Regulär
+- 1.500 €
+- Christoff Schneider
+- — einziger deutschsprachiger Permakultur-Lehrer mit
+- PRI-Zertifikat seit 2008
+- , direkt von Bill Mollison zertifiziert. Zwei intensive Wochen Wissen mit Herz, Humor und unkonventionellem Denken. Sie planen Ihr eigenes Permakulturprojekt — mit beiden Füßen in der Erde.
+- Was Sie erwartet
+- 🌿
+- Regenerative Lebensraumplanung
+- Gestaltung, Mustersprache der Natur, Energiefluss
+- 💧
+- Wassermanagement & Aquakultur
+- Bodenaufbau, Erdressourcen, Waldgärten
+- 🌳
+- Klima, Bäume, Waldgärten
+- Regionale Permakultur in allen Klimazonen
+- 🔥
+- Homa-Atmosphäre erleben
+- Agnihotra Feuerzeremonien täglich am Hof
+- ⛺️
+- Unterkunft & Verpflegung
+- Bio-vegetarisch, 14 Tage · 668–768 € zusätzlich
+- 🎓
+- Zertifikat & Netzwerk
+- International anerkanntes PDC-Zertifikat
+- Nur 25 Plätze — Jetzt sichern
+- Erleben Sie Permakultur hautnah — auf einem echten Homa-Hof, umgeben von heilender Atmosphäre und gleichgesinnten Menschen.
+- Jetzt anmelden →
+- Homa-Hof Heiligenberg · info@homa-hof-heiligenberg.de · +49 (0)7552 938760
+
+### Full Visible DOM Text
+- PDC Homa-Hof Heiligenberg 2026 – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Permakultur Design Zertifikationskurs
+- PDC Homa-Hof
+- Heiligenberg 2026
+- 23. August – 6. September 2026
+- 100 Stunden · 14 Tage · 25 Plätze
+- Early Bird
+- 1.250 €
+- bis 10. Juli 2026
+- Empfohlen
+- Spezialpreis
+- 1.350 €
+- begrenzte Plätze
+- Regulär
+- 1.500 €
+- Christoff Schneider
+- — einziger deutschsprachiger Permakultur-Lehrer mit
+- PRI-Zertifikat seit 2008
+- , direkt von Bill Mollison zertifiziert. Zwei intensive Wochen Wissen mit Herz, Humor und unkonventionellem Denken. Sie planen Ihr eigenes Permakulturprojekt — mit beiden Füßen in der Erde.
+- Was Sie erwartet
+- 🌿
+- Regenerative Lebensraumplanung
+- Gestaltung, Mustersprache der Natur, Energiefluss
+- 💧
+- Wassermanagement & Aquakultur
+- Bodenaufbau, Erdressourcen, Waldgärten
+- 🌳
+- Klima, Bäume, Waldgärten
+- Regionale Permakultur in allen Klimazonen
+- 🔥
+- Homa-Atmosphäre erleben
+- Agnihotra Feuerzeremonien täglich am Hof
+- ⛺️
+- Unterkunft & Verpflegung
+- Bio-vegetarisch, 14 Tage · 668–768 € zusätzlich
+- 🎓
+- Zertifikat & Netzwerk
+- International anerkanntes PDC-Zertifikat
+- Nur 25 Plätze — Jetzt sichern
+- Erleben Sie Permakultur hautnah — auf einem echten Homa-Hof, umgeben von heilender Atmosphäre und gleichgesinnten Menschen.
+- Jetzt anmelden →
+- Homa-Hof Heiligenberg · info@homa-hof-heiligenberg.de · +49 (0)7552 938760
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Permakulturschule
+
+- URL: https://oekologisch-leben.org/permakulturschule/
+- Slug: `permakulturschule`
+- Modified: `2026-03-15T22:00:38`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2025/09/cropped-OeL_Logo_final1.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/pks.webp
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/tipi.webp
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/design.webp
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Stell dir vor, du betrittst einen Ort, an dem Wissen nicht nur gelehrt, sondern gelebt wird.
+- Genau das bieten wir als einzige vom
+- Permaculture Research Institute Australia
+- zertifizierte Schule im deutschsprachigen Raum.
+- Unsere
+- Permakultur-Design-Zertifikatskurse
+- nach Bill Mollison
+- und dem PRI vermitteln mehr als Theorie – sie laden Dich ein, nachhaltiges Leben
+- praktisch zu erfahren und Teil einer inspirierenden Gemeinschaft zu werden.
+- Permakultur wurde 1981 mit dem
+- alternativen Nobelpreis „Right Livelihood Award“
+- ausgezeichnet,
+- denn sie vermittelt essenzielle
+- Lebenskompetenzen
+- , die herkömmliche Bildungswege oft übersehen.
+- Wie schaffen wir resiliente Lebensräume?
+- Wie versorgen wir uns selbst?
+- Wie gestalten wir eine zukunftsfähige Welt?
+- Wenn dich diese Fragen bewegen, bist du bei uns genau richtig.
+- Lerne mit uns – gestalte die Zukunft.
+- Permaculturally, Christoff & Team
+- Kurse, Beratung und Management
+- Wasserautonome Farmen – Resiliente Landwirtschaft gestalten:
+- Wir unterstützen Bauern und Gärtner bei der nachhaltigen Bewirtschaftung ihrer Flächen – für fruchtbare Böden, gesunde Pflanzen und eine krisenfeste Zukunft.
+- Erosion stoppen & Wasser in der Landschaft halten
+- – mit
+- Keyline-Design, Silverpasture, Agroforst und Waldgärten
+- Umstellung auf syntropische Landwirtschaft
+- – mit mehrjährigen Kulturen für langfristige Bodenfruchtbarkeit
+- Agroforstsysteme & nachhaltige Waldbewirtschaftung
+- – für einen regenerativen, biodiversen Anbau
+- Bodenaufbau & Pflanzengesundheit fördern
+- – durch
+- Humusaufbau, Kompostierung & Intercropping
+- Nachhaltige Planung & Projektbegleitung:
+- Wir beraten
+- Unternehmen, Gemeinden, Städte, Landwirte, Gärtner, Architekten, NGOs und den öffentlichen Sektor
+- bei der Entwicklung zukunftsfähiger landwirtschaftlicher und ökologischer Konzepte.
+- Praktische Erfahrung & wissenschaftlich fundierte Methoden
+- Planungssupervision & Projektmanagement
+- Beratung für resiliente Ökonomie & Ökologie
+- Globale Verantwortung:
+- Als
+- Permakulturschule und Hilfsorganisation
+- begleiten wir internationale Projekte mit einer nachhaltigen Umwelt- und Wirtschaftsplanung – für mehr Resilienz, ökologische Balance und soziale Zukunftsfähigkeit.
+- Autonome Lebensraumgestaltung & Selbstversorgung
+- Unser Verein steht Ihnen mit Herz und Fachwissen zur Seite, um Ihre Vision von Selbstversorgung und nachhaltigem Leben zu gestalten. Ob üppige
+- essbare Landschaften
+- , blühende
+- Waldgärten
+- ,
+- syntropische Landwirtschaft
+- oder die Kunst der
+- autonomen Lebensraumgestaltung
+- – wir begleiten Sie auf Ihrem Weg zu einem selbstbestimmten, zukunftsfähigen Lebensstil.
+- Unsere Mission ist es, Menschen und Institutionen bei der Planung und Umsetzung von Selbstversorgung und Kreislaufwirtschaft zu unterstützen. Kein Projekt ist zu klein, keines zu groß – jeder Schritt zählt!
+- Lassen Sie uns gemeinsam Ihren Garten in ein Paradies verwandeln – für Sie, für kommende Generationen, für eine nachhaltige Welt.
+- Wir sind gerne persönlich für Sie da!
+- Verein Permakulturschule / permaculture-school (ZVR: 1583502667)
+- Präsident Christoff Schneider
+- E-Mail: office(at)permakulturschule.org
+- Tel./Signal/Telegram/Threema: Christoff Schneider +43 664 415 01 10
+
+### Full Visible DOM Text
+- Permakulturschule – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Permakulturschule
+- Stell dir vor, du betrittst einen Ort, an dem Wissen nicht nur gelehrt, sondern gelebt wird.
+- Genau das bieten wir als einzige vom
+- Permaculture Research Institute Australia
+- zertifizierte Schule im deutschsprachigen Raum.
+- Unsere
+- Permakultur-Design-Zertifikatskurse
+- nach Bill Mollison
+- und dem PRI vermitteln mehr als Theorie – sie laden Dich ein, nachhaltiges Leben
+- praktisch zu erfahren und Teil einer inspirierenden Gemeinschaft zu werden.
+- Permakultur wurde 1981 mit dem
+- alternativen Nobelpreis „Right Livelihood Award“
+- ausgezeichnet,
+- denn sie vermittelt essenzielle
+- Lebenskompetenzen
+- , die herkömmliche Bildungswege oft übersehen.
+- Wie schaffen wir resiliente Lebensräume?
+- Wie versorgen wir uns selbst?
+- Wie gestalten wir eine zukunftsfähige Welt?
+- Wenn dich diese Fragen bewegen, bist du bei uns genau richtig.
+- Lerne mit uns – gestalte die Zukunft.
+- Permaculturally, Christoff & Team
+- Kurse, Beratung und Management
+- Wasserautonome Farmen – Resiliente Landwirtschaft gestalten:
+- Wir unterstützen Bauern und Gärtner bei der nachhaltigen Bewirtschaftung ihrer Flächen – für fruchtbare Böden, gesunde Pflanzen und eine krisenfeste Zukunft.
+- Erosion stoppen & Wasser in der Landschaft halten
+- – mit
+- Keyline-Design, Silverpasture, Agroforst und Waldgärten
+- Umstellung auf syntropische Landwirtschaft
+- – mit mehrjährigen Kulturen für langfristige Bodenfruchtbarkeit
+- Agroforstsysteme & nachhaltige Waldbewirtschaftung
+- – für einen regenerativen, biodiversen Anbau
+- Bodenaufbau & Pflanzengesundheit fördern
+- – durch
+- Humusaufbau, Kompostierung & Intercropping
+- Nachhaltige Planung & Projektbegleitung:
+- Wir beraten
+- Unternehmen, Gemeinden, Städte, Landwirte, Gärtner, Architekten, NGOs und den öffentlichen Sektor
+- bei der Entwicklung zukunftsfähiger landwirtschaftlicher und ökologischer Konzepte.
+- Praktische Erfahrung & wissenschaftlich fundierte Methoden
+- Planungssupervision & Projektmanagement
+- Beratung für resiliente Ökonomie & Ökologie
+- Globale Verantwortung:
+- Als
+- Permakulturschule und Hilfsorganisation
+- begleiten wir internationale Projekte mit einer nachhaltigen Umwelt- und Wirtschaftsplanung – für mehr Resilienz, ökologische Balance und soziale Zukunftsfähigkeit.
+- Autonome Lebensraumgestaltung & Selbstversorgung
+- Unser Verein steht Ihnen mit Herz und Fachwissen zur Seite, um Ihre Vision von Selbstversorgung und nachhaltigem Leben zu gestalten. Ob üppige
+- essbare Landschaften
+- , blühende
+- Waldgärten
+- ,
+- syntropische Landwirtschaft
+- oder die Kunst der
+- autonomen Lebensraumgestaltung
+- – wir begleiten Sie auf Ihrem Weg zu einem selbstbestimmten, zukunftsfähigen Lebensstil.
+- Unsere Mission ist es, Menschen und Institutionen bei der Planung und Umsetzung von Selbstversorgung und Kreislaufwirtschaft zu unterstützen. Kein Projekt ist zu klein, keines zu groß – jeder Schritt zählt!
+- Lassen Sie uns gemeinsam Ihren Garten in ein Paradies verwandeln – für Sie, für kommende Generationen, für eine nachhaltige Welt.
+- Wir sind gerne persönlich für Sie da!
+- Verein Permakulturschule / permaculture-school (ZVR: 1583502667)
+- Präsident Christoff Schneider
+- E-Mail: office(at)permakulturschule.org
+- Tel./Signal/Telegram/Threema: Christoff Schneider +43 664 415 01 10
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM

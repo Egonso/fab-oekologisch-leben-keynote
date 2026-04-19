@@ -1,0 +1,131 @@
+# Oekologisch Leben Landing Page
+
+Current extraction of the public landing page from `oekologisch-leben.org`.
+
+## Homepage
+
+- URL: https://oekologisch-leben.org/
+- Slug: `homepage`
+- Modified: `2025-12-03T17:39:41`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://dev.oekologisch-leben.org/wp-content/uploads/2025/11/cropped-website_hero7.png
+- Beratung: https://oekologisch-leben.org/wp-content/uploads/2025/11/beratung-2.png
+- Campus: https://oekologisch-leben.org/wp-content/uploads/2025/11/campus-1.png
+- PDC: https://oekologisch-leben.org/wp-content/uploads/2025/11/pdc.png
+- Vorträge: https://oekologisch-leben.org/wp-content/uploads/2025/11/vortraege.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Vom Impuls zur Umsetzung - Praxis, die wirkt.
+- Unsere Angebote
+- Ob Beratung, Mentoring, unser digitaler Campus oder Permakultur Design-Kurse – hier finden Sie den passenden Weg, um Ihren Garten, Ihre Landwirtschaft oder Ihren Betrieb naturtauglich und zukunftsorientiert zu gestalten.
+- Beratung
+- Projektplanung, Keylining und Wassermanagement.
+- Campus
+- Unser kompakter Basiskurs: digital, aber praxisnah.
+- PDC
+- Unser großer Permakultur Design Kurs mit Zertifikat.
+- Vorträge
+- Fachinputs zu Permakultur und Wandel.
+- „DIE PROBLEME UNSERER WELT SIND ERSCHRECKEND KOMPLEX – DOCH DIE LÖSUNGEN BLEIBEN ERSTAUNLICH EINFACH.“
+- BILL MOLLISON
+- Alle Werkzeuge, um diese einfachen Lösungen umzusetzen, gibt es bei uns.
+- Von digitalem Wissen, Beratung bis zu praxisnahen Permakultur Design Kursen – fundiert und aus einer Hand.
+- Warum Permakultur der Schlüssel ist
+- Für Privatpersonen
+- Für Landwirte
+- Für Unternehmen
+- Nachhaltigkeit und Lebensqualität steigern
+- Permakultur Design hilft Ihnen, sich Ihre Umgebung zu gestalten, Ihre eigenen Lebensmittel anzubauen, die Umwelt zu schonen und gleichzeitig die Lebensqualität zu steigern. Lernen Sie, wie Sie Ressourcen effizient nutzen, ein gesundes Mikroklima schaffen und Ihren Garten oder Grundstück in ein resilienteres und schöneres Paradies verwandeln.
+- Selbstversorgung und Unabhängigkeit
+- Gesunde und vollwertige Lebensmittel in einer Qualität, die es nirgends zu kaufen gibt
+- Weniger Aufwand durch nachhaltige Praktiken
+- Förderung der Biodiversität und natürlichen Lebensräume
+- Ertragssteigerung und Bodengesundheit
+- Mit Permakultur Design werden landwirtschaftliche Prozesse optimiert und ein langfristig fruchtbarer Boden geschaffen. Statt des Einsatzes von chemischen Düngemitteln und Pestiziden werden natürliche Prozesse für nachhaltige Erträge genutzt. Regenerative Methoden wie Keylining, Swales, Agroforstsysteme, Silvopasture und Mischkulturen machen Landwirtschaft effizient und zukunftssicher.
+- Verbesserung der Bodenfruchtbarkeit und Wasserretention
+- Reduktion der Betriebskosten durch ressourcenschonende Methoden
+- Erhöhte Resilienz gegenüber Klimaveränderungen
+- Nachhaltige Geschäftsentwicklung und Kostensenkung
+- Permakultur Design bietet Unternehmen die Möglichkeit, ihre Ressourcennutzung zu optimieren und gleichzeitig ihren ökologischen Fußabdruck zu minimieren. Von grünen Büroanlagen bis hin zu nachhaltiger Beschaffung – permakulturelle Prinzipien helfen, innovative Lösungen für ressourcenschonendes Wirtschaften zu finden.
+- Reduzierung von Betriebskosten durch nachhaltige Ressourcennutzung
+- Verbesserung des Unternehmensimages durch glaubhafte und nachvollziehbare ökologische Verantwortung – kein Greenwashing
+- Langfristige Effizienzsteigerung und Kosteneinsparungen
+- In Kontakt bleiben
+- Instagram
+- Facebook
+- Youtube
+- Paper-plane
+
+### Full Visible DOM Text
+- oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Regenerative Landschafts- und Lebensraumkonzepte
+- Wir designen Zukunft. Lebensräume im Einklang mit der Natur - wasserhaltend, bodenbildend und vielfältig. Für Orte, an denen Menschen und Natur wieder in Balance kommen.
+- Zum Inhalt scrollen
+- Vom Impuls zur Umsetzung - Praxis, die wirkt.
+- Unsere Angebote
+- Ob Beratung, Mentoring, unser digitaler Campus oder Permakultur Design-Kurse – hier finden Sie den passenden Weg, um Ihren Garten, Ihre Landwirtschaft oder Ihren Betrieb naturtauglich und zukunftsorientiert zu gestalten.
+- Projektplanung, Keylining und Wassermanagement.
+- Unser kompakter Basiskurs: digital, aber praxisnah.
+- PDC
+- Unser großer Permakultur Design Kurs mit Zertifikat.
+- Fachinputs zu Permakultur und Wandel.
+- „DIE PROBLEME UNSERER WELT SIND ERSCHRECKEND KOMPLEX – DOCH DIE LÖSUNGEN BLEIBEN ERSTAUNLICH EINFACH.“
+- BILL MOLLISON
+- Alle Werkzeuge, um diese einfachen Lösungen umzusetzen, gibt es bei uns.
+- Von digitalem Wissen, Beratung bis zu praxisnahen Permakultur Design Kursen – fundiert und aus einer Hand.
+- Warum Permakultur der Schlüssel ist
+- Für Privatpersonen
+- Für Landwirte
+- Für Unternehmen
+- Nachhaltigkeit und Lebensqualität steigern
+- Permakultur Design hilft Ihnen, sich Ihre Umgebung zu gestalten, Ihre eigenen Lebensmittel anzubauen, die Umwelt zu schonen und gleichzeitig die Lebensqualität zu steigern. Lernen Sie, wie Sie Ressourcen effizient nutzen, ein gesundes Mikroklima schaffen und Ihren Garten oder Grundstück in ein resilienteres und schöneres Paradies verwandeln.
+- Selbstversorgung und Unabhängigkeit
+- Gesunde und vollwertige Lebensmittel in einer Qualität, die es nirgends zu kaufen gibt
+- Weniger Aufwand durch nachhaltige Praktiken
+- Förderung der Biodiversität und natürlichen Lebensräume
+- Ertragssteigerung und Bodengesundheit
+- Mit Permakultur Design werden landwirtschaftliche Prozesse optimiert und ein langfristig fruchtbarer Boden geschaffen. Statt des Einsatzes von chemischen Düngemitteln und Pestiziden werden natürliche Prozesse für nachhaltige Erträge genutzt. Regenerative Methoden wie Keylining, Swales, Agroforstsysteme, Silvopasture und Mischkulturen machen Landwirtschaft effizient und zukunftssicher.
+- Verbesserung der Bodenfruchtbarkeit und Wasserretention
+- Reduktion der Betriebskosten durch ressourcenschonende Methoden
+- Erhöhte Resilienz gegenüber Klimaveränderungen
+- Nachhaltige Geschäftsentwicklung und Kostensenkung
+- Permakultur Design bietet Unternehmen die Möglichkeit, ihre Ressourcennutzung zu optimieren und gleichzeitig ihren ökologischen Fußabdruck zu minimieren. Von grünen Büroanlagen bis hin zu nachhaltiger Beschaffung – permakulturelle Prinzipien helfen, innovative Lösungen für ressourcenschonendes Wirtschaften zu finden.
+- Reduzierung von Betriebskosten durch nachhaltige Ressourcennutzung
+- Verbesserung des Unternehmensimages durch glaubhafte und nachvollziehbare ökologische Verantwortung – kein Greenwashing
+- Langfristige Effizienzsteigerung und Kosteneinsparungen
+- In Kontakt bleiben
+- Instagram
+- Facebook
+- Youtube
+- Paper-plane
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM

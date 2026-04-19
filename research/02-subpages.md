@@ -1,0 +1,946 @@
+# Oekologisch Leben Visible Main-Domain Subpages
+
+Current extraction of the visible published main-domain subpages on `oekologisch-leben.org`.
+
+## Beratung
+
+- URL: https://oekologisch-leben.org/beratung/
+- Slug: `beratung`
+- Modified: `2025-12-03T17:42:52`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Beratung für naturnahe Lebensräume aus einer Hand. Von der ersten Idee bis zur Umsetzung.
+- Unsere Beratung unterstützt Sie dabei, Gärten, Höfe, landwirtschaftliche Flächen oder ganze Landschaften naturtauglich und langfristig tragfähig zu gestalten. Wir verbinden fundiertes Permakulturwissen mit jahrzehntelanger Erfahrung aus realen Projekten – von Waldgärten und syntropischen Pflanzsystemen bis zu Wasserrückhalt, Bodenaufbau und ökologischer Infrastruktur.
+- Ob Sie eine klare Analyse benötigen, ein vollständiges Design, fachliche Begleitung auf Ihrem Hof oder persönliches Mentoring: Wir entwickeln Lösungen, die zu Ihrem Standort, Ihren Zielen und Ihren Ressourcen passen.
+- Unsere Leistungen
+- Für wen?
+- Unser Vorgehen
+- Ihre Vorteile
+- Permakultur Consulting
+- : Analyse, Strategie und Planung für ökologische Projekte, Unternehmen, Gärten, Höfe und Gemeinden.
+- Mentoring für nachhaltige Entwicklung
+- : Langfristige Begleitung, damit Sie Ihre Ziele Schritt für Schritt umsetzen können.
+- Ganzheitliche Beratung
+- : Kombination aus Ökologie, Praxiswissen und sozialer Kompetenz für zukunftsfähige Lösungen
+- Privatpersonen
+- , die ihre Lebensweise naturtauglich gestalten möchten
+- Initiativen und Gemeinschaften
+- , die ökologische Projekte starten oder erweitern wollen
+- Gemeinden und Architekt/innen
+- , die ganzheitlich und ressourcenschonend planen
+- Landwirt/innen und Unternehmen
+- , die regenerative und nachhaltige Strukturen entwickeln möchten
+- Erstgespräch:
+- Wir klären Ihre Ziele, Wünsche und Rahmenbedingungen
+- Individuelle Beratung:
+- Online oder vor Ort, auf Ihr Projekt zugeschnitten
+- Begleitung & Mentoring:
+- Kontinuierliche Unterstützung für klare Schritte und erfolgreiche Umsetzung
+- Klarheit und Orientierung für Ihr Projekt
+- Fachlich fundierte Unterstützung aus der Permakultur-Praxis
+- Inspiration und Motivation, wirklich dranzubleiben
+- Lösungen, die ökologisch, sozial und wirtschaftlich tragfähig sind
+- Vereinbaren Sie jetzt ein Erstgespräch und finden Sie heraus, wie wir Sie bei der Umsetzung Ihrer Idee unterstützen können.
+- Name
+- E-Mail
+- Betreff
+- Nachricht
+- (optional)
+
+### Full Visible DOM Text
+- Beratung – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Beratung für naturnahe Lebensräume aus einer Hand. Von der ersten Idee bis zur Umsetzung.
+- Unsere Beratung unterstützt Sie dabei, Gärten, Höfe, landwirtschaftliche Flächen oder ganze Landschaften naturtauglich und langfristig tragfähig zu gestalten. Wir verbinden fundiertes Permakulturwissen mit jahrzehntelanger Erfahrung aus realen Projekten – von Waldgärten und syntropischen Pflanzsystemen bis zu Wasserrückhalt, Bodenaufbau und ökologischer Infrastruktur.
+- Ob Sie eine klare Analyse benötigen, ein vollständiges Design, fachliche Begleitung auf Ihrem Hof oder persönliches Mentoring: Wir entwickeln Lösungen, die zu Ihrem Standort, Ihren Zielen und Ihren Ressourcen passen.
+- Unsere Leistungen
+- Für wen?
+- Unser Vorgehen
+- Ihre Vorteile
+- Permakultur Consulting
+- : Analyse, Strategie und Planung für ökologische Projekte, Unternehmen, Gärten, Höfe und Gemeinden.
+- Mentoring für nachhaltige Entwicklung
+- : Langfristige Begleitung, damit Sie Ihre Ziele Schritt für Schritt umsetzen können.
+- Ganzheitliche Beratung
+- : Kombination aus Ökologie, Praxiswissen und sozialer Kompetenz für zukunftsfähige Lösungen
+- Privatpersonen
+- , die ihre Lebensweise naturtauglich gestalten möchten
+- Initiativen und Gemeinschaften
+- , die ökologische Projekte starten oder erweitern wollen
+- Gemeinden und Architekt/innen
+- , die ganzheitlich und ressourcenschonend planen
+- Landwirt/innen und Unternehmen
+- , die regenerative und nachhaltige Strukturen entwickeln möchten
+- Erstgespräch:
+- Wir klären Ihre Ziele, Wünsche und Rahmenbedingungen
+- Individuelle Beratung:
+- Online oder vor Ort, auf Ihr Projekt zugeschnitten
+- Begleitung & Mentoring:
+- Kontinuierliche Unterstützung für klare Schritte und erfolgreiche Umsetzung
+- Klarheit und Orientierung für Ihr Projekt
+- Fachlich fundierte Unterstützung aus der Permakultur-Praxis
+- Inspiration und Motivation, wirklich dranzubleiben
+- Lösungen, die ökologisch, sozial und wirtschaftlich tragfähig sind
+- Vereinbaren Sie jetzt ein Erstgespräch und finden Sie heraus, wie wir Sie bei der Umsetzung Ihrer Idee unterstützen können.
+- Name
+- E-Mail
+- Betreff
+- Nachricht
+- (optional)
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Campus
+
+- URL: https://oekologisch-leben.org/campus/
+- Slug: `campus`
+- Modified: `2025-12-03T17:53:04`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- ÖL_Cmapus_Logo_final: https://oekologisch-leben.org/wp-content/uploads/2025/11/OeL_Cmapus_Logo_final.png
+- FachWissenLive_rund_final-20: https://oekologisch-leben.org/wp-content/uploads/2025/11/FachWissenLive_rund_final-20.png
+- Community_Logo: https://oekologisch-leben.org/wp-content/uploads/2025/11/Community_Logo.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Unser Campus - dein digitaler Lernraum
+- Ökologisches Leben beginnt mit Wissen, das in die Praxis führt. Unser kompakter Basiskurs gibt dir alles, was du brauchst, um sofort zu starten - flexibel und ortsunabhängig.
+- Im Campus gibt fundiertes Permakulturwissen, praxisnahe Anleitung und klare Werkzeuge für ein Leben im Einklang mit der Natur. Alle Inhalte orientieren sich an den 8 Säulen der Ökologisch Leben-Matrix und verbinden Theorie mit konkreter Umsetzung.
+- Fachwissen: Übersichtlich aufgebaut nach Wasser, Lebensmittel, Schutz/ökologische Infrastruktur, Energie, Wissen, Gemeinwohlökonomie, Mensch-Sein und Zukunftsfähigkeit.
+- Video-Lerneinheiten:
+- Kurz, verständlich und direkt anwendbar – mit Beispielen aus Waldgärten, syntropischen Systemen und realen Projekten im In- und Ausland.
+- Live-Calls:
+- Regelmäßige Fragerunden, Austausch und vertiefende Impulse für Ihre individuellen Fragen.
+- Downloads:
+- Planungsblätter, Checklisten, Karten und Werkzeuge für deine eigenen Projekte.
+- Podcasts und Expertengespräche:
+- Vertiefe Einblicke in Ökologie, regenerative Landwirtschaft, Bildung und gemeinschaftstaugliche Systeme.
+- Jetzt den Campus entdecken und Permakultur online lernen
+- FachWissenLive - Webinare für nachhaltiges Leben
+- Unsere regelmäßigen Webinare verbinden fundiertes Fachwissen mit direkten Inputs: wechselnde Themen, Raum für Fragen zum Thema, Aufzeichnungen und anschließende Downloads.
+- Entdecke unsere Webinarreihe FachWissenLive
+- Digitale Community - gemeinsam ökologisch leben
+- Lernen endet nicht beim Kurs. Neben kostenlosen Material von uns können sich die Mitglieder gegenseitig mit Tipps, Tricks und Fragen rund um das Thema Ökologisch Leben bereichern.
+- Komm in unsere Community
+
+### Full Visible DOM Text
+- Campus – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Unser Campus - dein digitaler Lernraum
+- Ökologisches Leben beginnt mit Wissen, das in die Praxis führt. Unser kompakter Basiskurs gibt dir alles, was du brauchst, um sofort zu starten - flexibel und ortsunabhängig.
+- Im Campus gibt fundiertes Permakulturwissen, praxisnahe Anleitung und klare Werkzeuge für ein Leben im Einklang mit der Natur. Alle Inhalte orientieren sich an den 8 Säulen der Ökologisch Leben-Matrix und verbinden Theorie mit konkreter Umsetzung.
+- Fachwissen: Übersichtlich aufgebaut nach Wasser, Lebensmittel, Schutz/ökologische Infrastruktur, Energie, Wissen, Gemeinwohlökonomie, Mensch-Sein und Zukunftsfähigkeit.
+- Video-Lerneinheiten:
+- Kurz, verständlich und direkt anwendbar – mit Beispielen aus Waldgärten, syntropischen Systemen und realen Projekten im In- und Ausland.
+- Live-Calls:
+- Regelmäßige Fragerunden, Austausch und vertiefende Impulse für Ihre individuellen Fragen.
+- Downloads:
+- Planungsblätter, Checklisten, Karten und Werkzeuge für deine eigenen Projekte.
+- Podcasts und Expertengespräche:
+- Vertiefe Einblicke in Ökologie, regenerative Landwirtschaft, Bildung und gemeinschaftstaugliche Systeme.
+- Jetzt den Campus entdecken und Permakultur online lernen
+- FachWissenLive - Webinare für nachhaltiges Leben
+- Unsere regelmäßigen Webinare verbinden fundiertes Fachwissen mit direkten Inputs: wechselnde Themen, Raum für Fragen zum Thema, Aufzeichnungen und anschließende Downloads.
+- Entdecke unsere Webinarreihe FachWissenLive
+- Digitale Community - gemeinsam ökologisch leben
+- Lernen endet nicht beim Kurs. Neben kostenlosen Material von uns können sich die Mitglieder gegenseitig mit Tipps, Tricks und Fragen rund um das Thema Ökologisch Leben bereichern.
+- Komm in unsere Community
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## PDC Homa-Hof Heiligenberg 2026
+
+- URL: https://oekologisch-leben.org/pdc/
+- Slug: `pdc`
+- Modified: `2026-04-10T11:08:01`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Homa-Hof Heiligenberg — Permakultur Design Kurs 2026: https://oekologisch-leben.org/wp-content/uploads/2026/04/Homa-Hof-1.jpg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Permakultur Design Kurs · 2026
+- PDC Homa-Hof
+- Heiligenberg 2026
+- 23. August – 6. September 2026
+- 📅 14 Tage · 100 Stunden
+- 📍 Heiligenberg, D
+- 🌿 PRI-Zertifiziert
+- 👥 Nur 25 Plätze
+- Jetzt anmelden →
+- Early Bird bis 10. Juli 2026 · Nur noch wenige Plätze verfügbar
+- Kursleiter
+- Christoff Schneider DcP
+- Einziger deutschsprachiger PRI-zertifizierter Lehrer
+- Christoff Schneider ist seit 2008 PRI-zertifizierter Permakultur-Lehrer — ausgebildet und zertifiziert von
+- Bill Mollison
+- , dem Begründer der Permakultur. Als einziger deutschsprachiger PRI-Lehrer weltweit verbindet er wissenschaftliche Fundierung mit tiefer praktischer Erfahrung aus internationalen Projekten.
+- PRI-Zertifikat seit 2008
+- Von Bill Mollison zertifiziert
+- Internationale Projekte
+- Veranstaltungsort
+- Homa-Hof
+- Heiligenberg
+- Oberhaslach 6
+- 88633 Heiligenberg
+- Baden-Württemberg, Deutschland
+- 🌳
+- Lebendiger Permakultur-Betrieb
+- 🍽️
+- Biologisch-vegetarische Vollverpflegung
+- 🏡
+- Übernachtung vor Ort möglich
+- 🔥
+- Homa-Feuer & spirituelle Praxis
+- Was du lernst
+- Kursinhalte
+- Nachhaltige Lebensraumplanung
+- Ganzheitliche Planung von Häusern, Höfen und Landschaften nach Permakultur-Prinzipien.
+- 🌲
+- Waldgärten & Agroforstsysteme
+- Mehrschichtige essbare Wälder anlegen — von Baumkronen bis Bodendecker.
+- 💧
+- Wassermanagement
+- Swales, Teiche, Zisternen — Wasser halten, leiten und im Kreislauf nutzen.
+- 🌱
+- Bodenaufbau
+- Humusaufbau, Kompostierung, Mulchen — lebendige Böden als Fundament für Fülle.
+- 🐚
+- Mustersprache der Natur
+- Spiralen, Verzweigungen, Fraktale — die universellen Muster der Natur verstehen und anwenden.
+- 🗺️
+- Regionale Permakultur
+- Angepasste Strategien für das mitteleuropäische Klima und die Besonderheiten der Region Bodensee.
+- Homa-Feuerzeremonien
+- Uralte vedische Feuerpraxis — Agnihotra und seine regenerative Wirkung auf Boden, Pflanzen und Menschen.
+- 📐
+- Eigenes Projekt planen
+- Jeder Teilnehmende entwickelt ein eigenes Permakultur-Design — die Grundlage für das PRI-Zertifikat.
+- Investition in deine Zukunft
+- Kursgebühren
+- Empfohlen
+- Early Bird
+- 1.250
+- €
+- bis 10. Juli 2026
+- Du sparst
+- 250€
+- gegenüber dem Regelpreis
+- Sozialpreis
+- 1.350
+- Ermäßigt
+- Für Menschen mit eingeschränktem Einkommen
+- Regelpreis
+- 1.500
+- ab 11. Juli 2026
+- Reguläre Kursgebühr
+- Zusatzoption
+- Übernachtung + Bio-Vollverpflegung
+- 14 Tage · biologisch-vegetarisch · vor Ort am Homa-Hof
+- 668 – 768€
+- je nach Zimmertyp
+- Jetzt anmelden — Platz sichern →
+- Nur 25 Plätze · Early Bird endet 10. Juli 2026
+- Auf einen Blick
+- Kursübersicht
+- 📅
+- Termin
+- 23. Aug – 6. Sep
+- 2026
+- ⏱️
+- Umfang
+- 14 Tage
+- 100 Stunden
+- 👥
+- Teilnehmende
+- Maximal
+- 25 Personen
+- 🎓
+- Abschluss
+- PRI Design
+- Zertifikat
+- 🌍
+- Sprache
+- Deutsch
+- 📍
+- Ort
+- Im Kursbeitrag enthalten
+- ✓
+- 100 Stunden Unterricht & Praxis
+- Umfangreiches Kursmaterial
+- PRI Design-Zertifikat
+- Persönliches Design-Projekt
+- Exkursionen & Begehungen
+- Homa-Feuer Teilnahme
+- Zertifiziertes Netzwerk weltweit
+- Lebenslanger Zugang zur Gemeinschaft
+- Deine Reise beginnt hier
+- Werde Teil der Permakultur-Bewegung
+- 14 intensive Tage auf dem Homa-Hof. Echte Praxis, echter Boden, echte Gemeinschaft. Das PRI-Zertifikat öffnet dir weltweit Türen — gelehrt vom einzigen deutschsprachigen PRI-Lehrer.
+- 14
+- Tage
+- 100h
+- Lernzeit
+- 25
+- Plätze gesamt
+- ab 1.250€
+- Fragen zum Kurs?
+- Kontakt über den Homa-Hof Heiligenberg oder direkt über
+- oekologisch-leben.org
+- Homa-Hof Heiligenberg · Oberhaslach 6 · 88633 Heiligenberg · Deutschland
+
+### Full Visible DOM Text
+- PDC Homa-Hof Heiligenberg 2026 – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Permakultur Design Kurs · 2026
+- PDC Homa-Hof
+- Heiligenberg 2026
+- 23. August – 6. September 2026
+- 📅 14 Tage · 100 Stunden
+- 📍 Heiligenberg, D
+- 🌿 PRI-Zertifiziert
+- 👥 Nur 25 Plätze
+- Jetzt anmelden →
+- Early Bird bis 10. Juli 2026 · Nur noch wenige Plätze verfügbar
+- Kursleiter
+- Christoff Schneider DcP
+- Einziger deutschsprachiger PRI-zertifizierter Lehrer
+- Christoff Schneider ist seit 2008 PRI-zertifizierter Permakultur-Lehrer — ausgebildet und zertifiziert von
+- Bill Mollison
+- , dem Begründer der Permakultur. Als einziger deutschsprachiger PRI-Lehrer weltweit verbindet er wissenschaftliche Fundierung mit tiefer praktischer Erfahrung aus internationalen Projekten.
+- PRI-Zertifikat seit 2008
+- Von Bill Mollison zertifiziert
+- Internationale Projekte
+- Veranstaltungsort
+- Homa-Hof
+- Heiligenberg
+- Oberhaslach 6
+- 88633 Heiligenberg
+- Baden-Württemberg, Deutschland
+- 🌳
+- Lebendiger Permakultur-Betrieb
+- 🍽️
+- Biologisch-vegetarische Vollverpflegung
+- 🏡
+- Übernachtung vor Ort möglich
+- 🔥
+- Homa-Feuer & spirituelle Praxis
+- Was du lernst
+- Kursinhalte
+- Nachhaltige Lebensraumplanung
+- Ganzheitliche Planung von Häusern, Höfen und Landschaften nach Permakultur-Prinzipien.
+- 🌲
+- Waldgärten & Agroforstsysteme
+- Mehrschichtige essbare Wälder anlegen — von Baumkronen bis Bodendecker.
+- 💧
+- Wassermanagement
+- Swales, Teiche, Zisternen — Wasser halten, leiten und im Kreislauf nutzen.
+- 🌱
+- Bodenaufbau
+- Humusaufbau, Kompostierung, Mulchen — lebendige Böden als Fundament für Fülle.
+- 🐚
+- Mustersprache der Natur
+- Spiralen, Verzweigungen, Fraktale — die universellen Muster der Natur verstehen und anwenden.
+- 🗺️
+- Regionale Permakultur
+- Angepasste Strategien für das mitteleuropäische Klima und die Besonderheiten der Region Bodensee.
+- Homa-Feuerzeremonien
+- Uralte vedische Feuerpraxis — Agnihotra und seine regenerative Wirkung auf Boden, Pflanzen und Menschen.
+- 📐
+- Eigenes Projekt planen
+- Jeder Teilnehmende entwickelt ein eigenes Permakultur-Design — die Grundlage für das PRI-Zertifikat.
+- Investition in deine Zukunft
+- Kursgebühren
+- Empfohlen
+- Early Bird
+- 1.250
+- €
+- bis 10. Juli 2026
+- Du sparst
+- 250€
+- gegenüber dem Regelpreis
+- Sozialpreis
+- 1.350
+- Ermäßigt
+- Für Menschen mit eingeschränktem Einkommen
+- Regelpreis
+- 1.500
+- ab 11. Juli 2026
+- Reguläre Kursgebühr
+- Zusatzoption
+- Übernachtung + Bio-Vollverpflegung
+- 14 Tage · biologisch-vegetarisch · vor Ort am Homa-Hof
+- 668 – 768€
+- je nach Zimmertyp
+- Jetzt anmelden — Platz sichern →
+- Nur 25 Plätze · Early Bird endet 10. Juli 2026
+- Auf einen Blick
+- Kursübersicht
+- 📅
+- Termin
+- 23. Aug – 6. Sep
+- 2026
+- ⏱️
+- Umfang
+- 14 Tage
+- 100 Stunden
+- 👥
+- Teilnehmende
+- Maximal
+- 25 Personen
+- 🎓
+- Abschluss
+- PRI Design
+- Zertifikat
+- 🌍
+- Sprache
+- Deutsch
+- 📍
+- Ort
+- Im Kursbeitrag enthalten
+- ✓
+- 100 Stunden Unterricht & Praxis
+- Umfangreiches Kursmaterial
+- PRI Design-Zertifikat
+- Persönliches Design-Projekt
+- Exkursionen & Begehungen
+- Homa-Feuer Teilnahme
+- Zertifiziertes Netzwerk weltweit
+- Lebenslanger Zugang zur Gemeinschaft
+- Deine Reise beginnt hier
+- Werde Teil der Permakultur-Bewegung
+- 14 intensive Tage auf dem Homa-Hof. Echte Praxis, echter Boden, echte Gemeinschaft. Das PRI-Zertifikat öffnet dir weltweit Türen — gelehrt vom einzigen deutschsprachigen PRI-Lehrer.
+- 14
+- Tage
+- 100h
+- Lernzeit
+- 25
+- Plätze gesamt
+- ab 1.250€
+- Fragen zum Kurs?
+- Kontakt über den Homa-Hof Heiligenberg oder direkt über
+- oekologisch-leben.org
+- Homa-Hof Heiligenberg · Oberhaslach 6 · 88633 Heiligenberg · Deutschland
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Vorträge
+
+- URL: https://oekologisch-leben.org/vortraege/
+- Slug: `vortraege`
+- Modified: `2025-12-03T17:45:29`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Impulse für eine gute Zukunft
+- Sie planen eine Veranstaltung, ein Symposium oder eine Konferenz und suchen nach einem Sprecher, der Praxiswissen mit Inspiration verbindet? Mit Christoff Schneider erhalten Sie einen erfahrenen Permakultur-Speaker, der ökologische Themen lebendig, verständlich und zukunftsweisend vermittelt.
+- Themenfelder
+- Permakultur verstehen und anwenden:
+- Grundlagen, Prinzipien und Praxisbeispiele
+- Waldgärten und Agroforstsysteme:
+- Ernährungssicherheit und Artenvielfalt gestalten
+- Wasser und Boden:
+- Naturtaugliche Lösungen für globale Herausforderungen
+- Gemeinschaft und Zukunftsfähigkeit:
+- Vom Einzelprojekt zur resilienten Gesellschaft
+- Visionen für ein Leben im Einklang mit der Natur:
+- Hoffnung und konkrete Handlungsimpulse
+- Kontakt
+
+### Full Visible DOM Text
+- Vorträge – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Impulse für eine gute Zukunft
+- Sie planen eine Veranstaltung, ein Symposium oder eine Konferenz und suchen nach einem Sprecher, der Praxiswissen mit Inspiration verbindet? Mit Christoff Schneider erhalten Sie einen erfahrenen Permakultur-Speaker, der ökologische Themen lebendig, verständlich und zukunftsweisend vermittelt.
+- Themenfelder
+- Permakultur verstehen und anwenden:
+- Grundlagen, Prinzipien und Praxisbeispiele
+- Waldgärten und Agroforstsysteme:
+- Ernährungssicherheit und Artenvielfalt gestalten
+- Wasser und Boden:
+- Naturtaugliche Lösungen für globale Herausforderungen
+- Gemeinschaft und Zukunftsfähigkeit:
+- Vom Einzelprojekt zur resilienten Gesellschaft
+- Visionen für ein Leben im Einklang mit der Natur:
+- Hoffnung und konkrete Handlungsimpulse
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Über uns
+
+- URL: https://oekologisch-leben.org/ueber-uns/
+- Slug: `ueber-uns`
+- Modified: `2026-02-07T13:43:07`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- ÖL_Team_Struppi_final: https://oekologisch-leben.org/wp-content/uploads/2025/11/elementor/thumbs/OeL_Team_Struppi_final.png
+- christoff_web: https://oekologisch-leben.org/wp-content/uploads/2025/11/christoff_web-800x800.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Über Ökologisch Leben
+- Ökologisch Leben steht für Permakultur in ihrer ganzen Tiefe. Ein zentraler Schwerpunkt ist die Vermittlung und Multiplikation von Permakulturwissen, damit Menschen ihre Landschaften, Höfe und Gärten eigenständig regenerieren können. Wir entwickeln Lebensräume, die Wasser halten, Böden aufbauen, Mikroklima verbessern und langfristig stabile Erträge ermöglichen. Unsere Arbeit verbindet fundiertes Permakulturdesign mit moderner Planung und praktischer Umsetzung.
+- Unsere Mission
+- Wir machen Permakultur für alle zugänglich – verständlich, praxisnah und direkt anwendbar.
+- Unsere Mission ist es, Menschen Werkzeuge an die Hand zu geben, mit denen sie Lebensräume naturtauglich gestalten können: mit gut geplantem Wassermanagement, fruchtbaren Böden, resilienten Waldgartensystemen, energiearmen Strukturen und klaren, funktionierenden Kreisläufen.
+- Unsere Vision
+- Wir sehen eine Welt, in der Permakultur selbstverständlich ist – in Landwirtschaft, Gemeinden, Architektur und im privaten Garten.
+- Eine Welt, in der Regionen wieder Wasser speichern, Vielfalt zurückkehrt und Menschen Verantwortung für ihren Lebensraum übernehmen.
+- Unsere Vision ist eine lebendige Kultur der Regeneration, getragen von vielen, die ihr Wissen weitergeben und dadurch echte Veränderung ermöglichen.
+- Unsere Haltung
+- Wir arbeiten im Einklang mit der Natur, weil sie immer der beste Lehrer ist.
+- Wir gestalten systemisch, langlebig und ressourcenschonend.
+- Wir teilen Wissen, weil Permakultur nur dann wirkt, wenn viele es verstehen und anwenden können.
+- Wir glauben daran, dass die Zukunft gestaltbar ist – durch gutes Design, klare Entscheidungen und lebendige Beispiele.
+- UNSER PERMAKULTUR-FACHMANN CHRISTOFF SCHNEIDER DCP
+- Christoff Schneider ist ein international tätiger Permakultur Designer mit langjähriger Erfahrung in nachhaltiger Landwirtschaft, Kompostierung und regenerativem Landmanagement. Ausgebildet bei den Permakultur-Pionieren David Holmgren und Geoff Lawton, verbindet er fundiertes Fachwissen mit praxisnaher Umsetzung. Sein Ansatz: ganzheitlich, praxisnah und zukunftsfähig - für Lebensräume, die ökologisch, wirtschaftlich und sozial dauerhaft tragen. Seine Schwerpunkte sind Kompostierung, Humusaufbau und fruchtbare Böden, Wassermanagement, Hochwasserprävention, Waldgärten und Agroforstsysteme
+- In Kontakt bleiben
+- Instagram
+- Facebook
+- Youtube
+- Paper-plane
+
+### Full Visible DOM Text
+- Über uns – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Über Ökologisch Leben
+- Ökologisch Leben steht für Permakultur in ihrer ganzen Tiefe. Ein zentraler Schwerpunkt ist die Vermittlung und Multiplikation von Permakulturwissen, damit Menschen ihre Landschaften, Höfe und Gärten eigenständig regenerieren können. Wir entwickeln Lebensräume, die Wasser halten, Böden aufbauen, Mikroklima verbessern und langfristig stabile Erträge ermöglichen. Unsere Arbeit verbindet fundiertes Permakulturdesign mit moderner Planung und praktischer Umsetzung.
+- Unsere Mission
+- Wir machen Permakultur für alle zugänglich – verständlich, praxisnah und direkt anwendbar.
+- Unsere Mission ist es, Menschen Werkzeuge an die Hand zu geben, mit denen sie Lebensräume naturtauglich gestalten können: mit gut geplantem Wassermanagement, fruchtbaren Böden, resilienten Waldgartensystemen, energiearmen Strukturen und klaren, funktionierenden Kreisläufen.
+- Unsere Vision
+- Wir sehen eine Welt, in der Permakultur selbstverständlich ist – in Landwirtschaft, Gemeinden, Architektur und im privaten Garten.
+- Eine Welt, in der Regionen wieder Wasser speichern, Vielfalt zurückkehrt und Menschen Verantwortung für ihren Lebensraum übernehmen.
+- Unsere Vision ist eine lebendige Kultur der Regeneration, getragen von vielen, die ihr Wissen weitergeben und dadurch echte Veränderung ermöglichen.
+- Unsere Haltung
+- Wir arbeiten im Einklang mit der Natur, weil sie immer der beste Lehrer ist.
+- Wir gestalten systemisch, langlebig und ressourcenschonend.
+- Wir teilen Wissen, weil Permakultur nur dann wirkt, wenn viele es verstehen und anwenden können.
+- Wir glauben daran, dass die Zukunft gestaltbar ist – durch gutes Design, klare Entscheidungen und lebendige Beispiele.
+- UNSER PERMAKULTUR-FACHMANN CHRISTOFF SCHNEIDER DCP
+- Christoff Schneider ist ein international tätiger Permakultur Designer mit langjähriger Erfahrung in nachhaltiger Landwirtschaft, Kompostierung und regenerativem Landmanagement. Ausgebildet bei den Permakultur-Pionieren David Holmgren und Geoff Lawton, verbindet er fundiertes Fachwissen mit praxisnaher Umsetzung. Sein Ansatz: ganzheitlich, praxisnah und zukunftsfähig - für Lebensräume, die ökologisch, wirtschaftlich und sozial dauerhaft tragen. Seine Schwerpunkte sind Kompostierung, Humusaufbau und fruchtbare Böden, Wassermanagement, Hochwasserprävention, Waldgärten und Agroforstsysteme
+- In Kontakt bleiben
+- Instagram
+- Facebook
+- Youtube
+- Paper-plane
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Kontakt
+
+- URL: https://oekologisch-leben.org/kontakt/
+- Slug: `kontakt`
+- Modified: `2025-11-28T20:57:30`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Name
+- E-Mail
+- Betreff
+- Nachricht
+- (optional)
+
+### Full Visible DOM Text
+- Kontakt – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Name
+- E-Mail
+- Betreff
+- Nachricht
+- (optional)
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Datenschutz
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Impressum
+
+- URL: https://oekologisch-leben.org/impressum/
+- Slug: `impressum`
+- Modified: `2026-02-07T14:11:01`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Verein
+- : Ökologisch Leben
+- Sitz
+- : 9551 Bodensdorf, Österreich
+- ZVR-Zahl
+- : 1004147986
+- Zweck des Vereins
+- :
+- Verein zur Förderung von Forschung und Bildung für generationenübergreifendes Denken,
+- Planen und Handeln, für ein Leben basierend auf ökologischer Tragfähigkeit sowie der
+- maßvollen Nutzung ökologischer und ökonomischer Ressourcen im Sinne des Gemeinwohls.
+- Vertretungsberechtigte Person
+- : Christoff Schneider
+- E-Mail
+- : office(at)oekologisch-leben.org
+- Telefon
+- : +43 664 4150110
+- Inhaltlich verantwortlich:
+- Verein Ökologisch Leben, 9551 Bodensdorf, Österreich
+- Haftungsausschluss
+- Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.
+- Links zu externen Websites
+- Unsere Website enthält Links zu externen Webseiten. Für die Inhalte dieser Seiten sind ausschließlich deren Betreiber verantwortlich.
+- Datenschutz
+- Der Schutz Ihrer persönlichen Daten ist uns wichtig. Informationen zur Datenverarbeitung finden Sie in unserer Datenschutzerklärung.
+- Webdesign und Programmierung:
+- Webdesign: Janina Bartmann | Programmierung: Roger Aich
+- Bildrechte: Christoff Schneider
+- Logoentwicklung: Laura Behrens
+
+### Full Visible DOM Text
+- Impressum – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Impressum
+- Verein
+- : Ökologisch Leben
+- Sitz
+- : 9551 Bodensdorf, Österreich
+- ZVR-Zahl
+- : 1004147986
+- Zweck des Vereins
+- :
+- Verein zur Förderung von Forschung und Bildung für generationenübergreifendes Denken,
+- Planen und Handeln, für ein Leben basierend auf ökologischer Tragfähigkeit sowie der
+- maßvollen Nutzung ökologischer und ökonomischer Ressourcen im Sinne des Gemeinwohls.
+- Vertretungsberechtigte Person
+- : Christoff Schneider
+- E-Mail
+- : office(at)oekologisch-leben.org
+- Telefon
+- : +43 664 4150110
+- Inhaltlich verantwortlich:
+- Verein Ökologisch Leben, 9551 Bodensdorf, Österreich
+- Haftungsausschluss
+- Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.
+- Links zu externen Websites
+- Unsere Website enthält Links zu externen Webseiten. Für die Inhalte dieser Seiten sind ausschließlich deren Betreiber verantwortlich.
+- Datenschutz
+- Der Schutz Ihrer persönlichen Daten ist uns wichtig. Informationen zur Datenverarbeitung finden Sie in unserer Datenschutzerklärung.
+- Webdesign und Programmierung:
+- Webdesign: Janina Bartmann | Programmierung: Roger Aich
+- Bildrechte: Christoff Schneider
+- Logoentwicklung: Laura Behrens
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Newsletter
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
+
+## Datenschutz
+
+- URL: https://oekologisch-leben.org/datenschutz/
+- Slug: `datenschutz`
+- Modified: `2025-11-26T22:31:38`
+
+### Direct Image Links
+- oekologisch-leben.org: https://oekologisch-leben.org/wp-content/uploads/2026/04/Banner-Final.png
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/facebook.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/youtube.svg
+- Image: https://oekologisch-leben.org/wp-content/uploads/2026/03/instagram.svg
+
+### Page Builder / Body Text
+- Datenschutzerklärung
+- In folgender Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Webseite. Wir erheben und verarbeiten personenbezogene Daten nur auf Grundlage der gesetzlichen Bestimmungen (Datenschutzgrundverordnung, Telekommunikationsgesetz 2003).
+- Sobald Sie als Benutzer auf unsere Webseite zugreifen oder diese besuchen wird Ihre IP-Adresse sowie Beginn und Ende der Sitzung erfasst. Dies ist technisch bedingt und stellt somit ein berechtigtes Interesse iSv Art 6 Abs 1 lit f DSGVO.
+- Kontakt mit uns
+- Wenn Sie uns, entweder über unser Kontaktformular auf unserer Webseite, oder per Email kontaktieren, dann werden die von Ihnen an uns übermittelten Daten zwecks Bearbeitung Ihrer Anfrage oder für den Fall von weiteren Anschlussfragen für sechs Monate bei uns gespeichert. Es erfolgt ohne Ihre Einwilligung keine Weitergabe Ihrer übermittelten Daten.
+- Cookies
+- Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an. Wir nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen. Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall erlauben. Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
+- Server-Log Files
+- Diese Webseite und der damit verbundene Provider erhebt im Zuge der Webseitennutzung automatisch Informationen im Rahmen sogenannter „Server-Log Files“. Dies betrifft insbesondere:
+- IP-Adresse oder Hostname
+- den verwendeten Browser
+- Aufenthaltsdauer auf der Webseite sowie Datum und Uhrzeit
+- aufgerufene Seiten unseres Webangebots
+- Spracheinstellungen und Betriebssystem
+- „Leaving-Page“ (auf welcher URL hat der Benutzer die Webseite verlassen)
+- ISP (Internet Service Provider)
+- Diese erhobenen Informationen werden nicht personenbezogen verarbeitet oder mit personenbezogenen Daten in Verbindung gebracht.
+- Der Webseitenbetreiber behält es sich vor, im Falle von Bekanntwerden rechtswidriger Tätigkeiten, diese Daten auszuwerten oder zu überprüfen.
+- Newsletter
+- Wenn Sie die Möglichkeit nutzen unseren Newsletter zu abonnieren, wird Ihre Email-Adresse, Ihr Vor- und soweit freiwillig angegeben Ihr Nachname und Ihre Zustimmung/Einverständniserklärung über den Bezug des Newsletters benötigt. In Folge auf die Anmeldung zu unserem Newsletter, erhalten Sie von uns ein Bestätigungs-Email mit einem Link zur Anmeldebestätigung. Eine Stornierung des Abos ist jederzeit möglich. Nutzen Sie dazu bitte den Abmelden-Link, den Sie in allen Newsletter-Mails ganz am Ende finden oder senden Sie die Stornierung bitte an unsere Email-Adresse: datenschutz@oekologisch-leben.org.
+- Ihre Daten im Zusammenhang mit dem Newsletter-Versand werden im Falle einer Stornierung umgehend von uns gelöscht. Die Rechtmäßigkeit der erfolgten Datenverarbeitung bis zum Widerruf, welche aufgrund der Zustimmung passiert ist, wird nicht berührt.
+- Ihre Rechte als Betroffener
+- Sie als Betroffener haben bezüglich Ihrer Daten, welche bei uns gespeichert sind grundsätzlich ein Recht auf:
+- Auskunft
+- Löschung der Daten
+- Berichtigung der Daten
+- Übertragbarkeit der Daten
+- Wiederruf und Widerspruch zur Datenverarbeitung
+- Einschränkung
+- Wenn sie vermuten, dass im Zuge der Verarbeitung Ihrer Daten Verstöße gegen das Datenschutzrecht passiert sind, so haben Sie die Möglichkeit sich bei uns (datenschutz@oekologisch-leben.org) oder der Datenschutzbehörde zu beschweren.
+- Sie erreichen uns unter folgenden Kontaktdaten:
+- Webseitenbetreiber:
+- Verein Ökologisch Leben
+- ZVR-Zahl:
+- 1004147986
+- Anschrift
+- : Sankt Urbanweg 11/90, 9551 Bodensdorf, Österreich
+- Telefonnummer:
+- +43 664 4150110
+- Email:
+- office@oekologisch-leben.org
+- Quelle:
+- Datenschutzgenerator Österrei
+- ch
+
+### Full Visible DOM Text
+- Datenschutz – oekologisch-leben.org
+- Navigation umschalten
+- Home
+- Angebote
+- Beratung
+- Campus
+- PDC Homa-Hof Heiligenberg 2026
+- Vorträge
+- Ökologisch Leben-Kongress 2026
+- Über uns
+- Kontakt
+- Zum Inhalt springen
+- Suchen nach:
+- Seitenleiste & Navigation umschalten
+- Datenschutz
+- Datenschutzerklärung
+- In folgender Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Webseite. Wir erheben und verarbeiten personenbezogene Daten nur auf Grundlage der gesetzlichen Bestimmungen (Datenschutzgrundverordnung, Telekommunikationsgesetz 2003).
+- Sobald Sie als Benutzer auf unsere Webseite zugreifen oder diese besuchen wird Ihre IP-Adresse sowie Beginn und Ende der Sitzung erfasst. Dies ist technisch bedingt und stellt somit ein berechtigtes Interesse iSv Art 6 Abs 1 lit f DSGVO.
+- Kontakt mit uns
+- Wenn Sie uns, entweder über unser Kontaktformular auf unserer Webseite, oder per Email kontaktieren, dann werden die von Ihnen an uns übermittelten Daten zwecks Bearbeitung Ihrer Anfrage oder für den Fall von weiteren Anschlussfragen für sechs Monate bei uns gespeichert. Es erfolgt ohne Ihre Einwilligung keine Weitergabe Ihrer übermittelten Daten.
+- Cookies
+- Unsere Website verwendet so genannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an. Wir nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Sie ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen. Wenn Sie dies nicht wünschen, so können Sie Ihren Browser so einrichten, dass er Sie über das Setzen von Cookies informiert und Sie dies nur im Einzelfall erlauben. Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein.
+- Server-Log Files
+- Diese Webseite und der damit verbundene Provider erhebt im Zuge der Webseitennutzung automatisch Informationen im Rahmen sogenannter „Server-Log Files“. Dies betrifft insbesondere:
+- IP-Adresse oder Hostname
+- den verwendeten Browser
+- Aufenthaltsdauer auf der Webseite sowie Datum und Uhrzeit
+- aufgerufene Seiten unseres Webangebots
+- Spracheinstellungen und Betriebssystem
+- „Leaving-Page“ (auf welcher URL hat der Benutzer die Webseite verlassen)
+- ISP (Internet Service Provider)
+- Diese erhobenen Informationen werden nicht personenbezogen verarbeitet oder mit personenbezogenen Daten in Verbindung gebracht.
+- Der Webseitenbetreiber behält es sich vor, im Falle von Bekanntwerden rechtswidriger Tätigkeiten, diese Daten auszuwerten oder zu überprüfen.
+- Newsletter
+- Wenn Sie die Möglichkeit nutzen unseren Newsletter zu abonnieren, wird Ihre Email-Adresse, Ihr Vor- und soweit freiwillig angegeben Ihr Nachname und Ihre Zustimmung/Einverständniserklärung über den Bezug des Newsletters benötigt. In Folge auf die Anmeldung zu unserem Newsletter, erhalten Sie von uns ein Bestätigungs-Email mit einem Link zur Anmeldebestätigung. Eine Stornierung des Abos ist jederzeit möglich. Nutzen Sie dazu bitte den Abmelden-Link, den Sie in allen Newsletter-Mails ganz am Ende finden oder senden Sie die Stornierung bitte an unsere Email-Adresse: datenschutz@oekologisch-leben.org.
+- Ihre Daten im Zusammenhang mit dem Newsletter-Versand werden im Falle einer Stornierung umgehend von uns gelöscht. Die Rechtmäßigkeit der erfolgten Datenverarbeitung bis zum Widerruf, welche aufgrund der Zustimmung passiert ist, wird nicht berührt.
+- Ihre Rechte als Betroffener
+- Sie als Betroffener haben bezüglich Ihrer Daten, welche bei uns gespeichert sind grundsätzlich ein Recht auf:
+- Auskunft
+- Löschung der Daten
+- Berichtigung der Daten
+- Übertragbarkeit der Daten
+- Wiederruf und Widerspruch zur Datenverarbeitung
+- Einschränkung
+- Wenn sie vermuten, dass im Zuge der Verarbeitung Ihrer Daten Verstöße gegen das Datenschutzrecht passiert sind, so haben Sie die Möglichkeit sich bei uns (datenschutz@oekologisch-leben.org) oder der Datenschutzbehörde zu beschweren.
+- Sie erreichen uns unter folgenden Kontaktdaten:
+- Webseitenbetreiber:
+- Verein Ökologisch Leben
+- ZVR-Zahl:
+- 1004147986
+- Anschrift
+- : Sankt Urbanweg 11/90, 9551 Bodensdorf, Österreich
+- Telefonnummer:
+- +43 664 4150110
+- Email:
+- office@oekologisch-leben.org
+- Quelle:
+- Datenschutzgenerator Österrei
+- ch
+- Mehr Infos?
+- Du möchtest auf dem Laufenden bleiben, was bei uns so los ist? Dann abonniere gerne unseren Newsletter.
+- Impressum + datenschutz
+- Hier gelangst du zu unserem Impressum und zu den Datenschutzinformationen.
+- Impressum
+- Mail: kontakt@oekologisch-leben.org
+- Telefon: +43 664 4150110⁩
+- © Ökologisch Leben 2026
+- Inspiro Theme
+- von
+- WPZOOM
