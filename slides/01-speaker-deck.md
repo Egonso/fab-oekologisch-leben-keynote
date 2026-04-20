@@ -1,6 +1,6 @@
 # FAB Speaker Deck
 
-Arbeitsformat: Slide-by-slide Blueprint fuer die Keynote.
+Arbeitsformat: Slide-by-slide Blueprint für die Keynote.
 
 ## Visuelle Leitidee
 - industrial minimalism
@@ -8,7 +8,7 @@ Arbeitsformat: Slide-by-slide Blueprint fuer die Keynote.
 - akzentuiertes `#345900`
 - dokumentenzentrierte Informationshierarchie
 - wenige, gezielte starke Bilder
-- Diagramme, Systemgrafiken und echte Produkt-/Arbeitsoberflaechen
+- Diagramme, Systemgrafiken und echte Produkt-/Arbeitsoberflächen
 
 ## Slide 1
 ### Titel
@@ -44,28 +44,28 @@ Was ihr heute verstehen sollt
 - das Web ist weniger mystisch, als es wirkt
 - moderne Tools bauen auf denselben Grundlagen auf
 - AI Studio ist ein starker Einstieg
-- ihr koennt heute direkt etwas Reales bauen
+- ihr könnt heute direkt etwas Reales bauen
 
 ## Slide 4
 ### Titel
 Heute bauen wir nicht nur eine Seite
 
 ### Kernpunkte
-- wir bauen Verstaendnis
+- wir bauen Verständnis
 - wir bauen ein erstes Produkt
 - wir bauen eine eigene Portfolio-Landingpage
-- parallel laeuft die 20€-Challenge
+- parallel läuft die 20€-Challenge
 
 ## Slide 5
 ### Titel
-Der grosse Begriffsstack
+Der große Begriffsstack
 
 ### Visual
 - Systemgrafik
 - Deep Learning -> Generative KI -> LLM -> Chatbot -> Agent
 
 ### Sprecherhinweis
-- Agenten erst erklaeren, nachdem das LLM sauber sitzt
+- Agenten erst erklären, nachdem das LLM sauber sitzt
 
 ## Slide 6
 ### Titel
@@ -103,7 +103,7 @@ HTML
 
 ### Kernpunkte
 - Struktur
-- Ueberschriften
+- Überschriften
 - Texte
 - Buttons
 - Formulare
@@ -117,7 +117,7 @@ CSS
 - Farben
 - Typografie
 - Layout
-- Abstaende
+- Abstände
 - Responsive Verhalten
 
 ## Slide 11
@@ -169,14 +169,14 @@ Was ist localhost?
 ### Kernpunkte
 - lokale Entwicklungsadresse
 - Vorschau auf eure App auf eurem Computer
-- noch keine echte oeffentliche Website
+- noch keine echte öffentliche Website
 
 ## Slide 16
 ### Titel
 Was ist der Build-Prozess?
 
 ### Visual
-- Flow: Quellcode -> Build -> browserfaehige Assets
+- Flow: Quellcode -> Build -> browserfähige Assets
 
 ## Slide 17
 ### Titel
@@ -185,7 +185,7 @@ Warum Komponenten so wichtig sind
 ### Beispiel
 - einmal Button definieren
 - mehrmals auf der Seite verwenden
-- spaeter zentral aendern
+- später zentral ändern
 
 ## Slide 18
 ### Titel
@@ -205,7 +205,7 @@ Frontend vs Backend
 
 ### Visual
 - Split-Diagramm
-- links Nutzeroberflaeche, rechts Daten- und Logikschicht
+- links Nutzeroberfläche, rechts Daten- und Logikschicht
 
 ## Slide 20
 ### Titel
@@ -221,17 +221,17 @@ Was ist eine API?
 Beispiel Amazon
 
 ### Botschaft
-- HTML/CSS/JS fuer die Oberflaeche
-- Backend fuer Produkte, Preise, Nutzer, Bestellungen
-- Zahlungs-API fuer Bezahlung
+- HTML/CSS/JS für die Oberfläche
+- Backend für Produkte, Preise, Nutzer, Bestellungen
+- Zahlungs-API für Bezahlung
 
 ## Slide 22
 ### Titel
 Beispiel Facebook
 
 ### Botschaft
-- Frontend fuer Feed und Interaktion
-- Backend fuer Posts, Likes, Profile, Beziehungen
+- Frontend für Feed und Interaktion
+- Backend für Posts, Likes, Profile, Beziehungen
 - viele interne und externe Services
 
 ## Slide 23
@@ -248,12 +248,12 @@ Secrets und Tokens
 
 ### Kernpunkte
 - nicht offen ins Frontend
-- Zugangsdaten und Identitaet sauber trennen
+- Zugangsdaten und Identität sauber trennen
 - Sicherheit ist Produktarbeit, nicht Deko
 
 ## Slide 25
 ### Titel
-Warum das fuer euch wichtig ist
+Warum das für euch wichtig ist
 
 ### Kernpunkte
 - AI Studio nimmt euch anfangs viel ab
@@ -280,7 +280,7 @@ Was AI Studio aktuell kann
 
 ## Slide 28
 ### Titel
-Was AI Studio fuer euch managen kann
+Was AI Studio für euch managen kann
 
 ### Kernpunkte
 - Teile des Frontends
@@ -298,7 +298,7 @@ Was trotzdem Geld kosten kann
 - Hosting
 - Datenbank
 - externe APIs
-- hoehere Nutzung
+- höhere Nutzung
 
 ## Slide 30
 ### Titel
@@ -309,7 +309,7 @@ AI Studio vs Codex vs Cloud Code vs Antigravity
 
 ### Kernaussage
 - gleiche Grundlogik
-- andere Oberflaechen
+- andere Oberflächen
 - andere Tradeoffs
 
 ## Slide 31
@@ -317,7 +317,7 @@ AI Studio vs Codex vs Cloud Code vs Antigravity
 Warum AI Studio ein guter Einstieg ist
 
 ### Kernpunkte
-- kein lokales Setup noetig
+- kein lokales Setup nötig
 - schnell sichtbar
 - geringe Reibung
 - gute erste Lernerfolge
@@ -329,17 +329,17 @@ Warum ich trotzdem oft mit Codex arbeite
 ### Kernpunkte
 - lokale Dateien
 - mehr Kontrolle
-- besser fuer groessere Systeme
-- staerkere Langzeitpraktikabilitaet
+- besser für größere Systeme
+- stärkere Langzeitpraktikabilität
 
 ## Slide 33
 ### Titel
 Und wo Cloud Code / Antigravity stark sind
 
 ### Kernpunkte
-- staerkere agentische oder editornahe Entwicklung
+- stärkere agentische oder editornahe Entwicklung
 - komplexere Umgebungen
-- andere Produktivitaetsprofile
+- andere Produktivitätsprofile
 
 ## Slide 34
 ### Titel
@@ -350,7 +350,7 @@ Was ihr heute zuerst baut
 
 ## Slide 35
 ### Titel
-Dafuer braucht ihr nur zwei Dinge
+Dafür braucht ihr nur zwei Dinge
 
 ### Kernpunkte
 - ein kleines PRD
@@ -362,9 +362,9 @@ Was ist ein kleines PRD?
 
 ### Kernpunkte
 - was
-- fuer wen
-- wofuer
-- was die Seite koennen soll
+- für wen
+- wofür
+- was die Seite können soll
 - was nicht Teil von v1 ist
 
 ## Slide 37
@@ -392,7 +392,7 @@ Wie ihr euer Design-Dokument bekommt
 
 ## Slide 39
 ### Titel
-imgbb.com fuer direkte Bildlinks
+imgbb.com für direkte Bildlinks
 
 ### Kernpunkte
 - Bilder hochladen
@@ -404,8 +404,8 @@ imgbb.com fuer direkte Bildlinks
 Share vs Publish in AI Studio
 
 ### Kernpunkte
-- Share fuer Feedback und Abgabe
-- GitHub + Vercel / Netlify fuer sauberes Publishing
+- Share für Feedback und Abgabe
+- GitHub + Vercel / Netlify für sauberes Publishing
 
 ## Slide 41
 ### Titel
@@ -414,7 +414,7 @@ Was ist GitHub?
 ### Kernpunkte
 - Versionsverwaltung
 - Zusammenarbeit
-- nachvollziehbare Aenderungen
+- nachvollziehbare Änderungen
 - Deploy-Startpunkt
 
 ## Slide 42
@@ -422,7 +422,7 @@ Was ist GitHub?
 Version History ist Gold
 
 ### Kernpunkte
-- rueckgaengig machen
+- rückgängig machen
 - vergleichen
 - lernen
 - sicherer iterieren
@@ -442,13 +442,13 @@ Die Klassenplattform
 Die 20€-Challenge
 
 ### Kernpunkte
-- parallel waehrend Wartezeiten
+- parallel während Wartezeiten
 - reale kreative Wettbewerbssituation
 - Ranking durch die Klasse
 
 ## Slide 45
 ### Titel
-Effektiv arbeiten waehrend KI baut
+Effektiv arbeiten während KI baut
 
 ### Kernpunkte
 - nicht warten
@@ -462,7 +462,7 @@ Effektiv arbeiten waehrend KI baut
 Mehrere Agenten parallel
 
 ### Botschaft
-- 3-5 parallele Agenten koennen sinnvoll sein
+- 3-5 parallele Agenten können sinnvoll sein
 - aber nur mit guter Steuerung
 
 ## Slide 47
@@ -499,4 +499,4 @@ Das Ziel heute
 ### Botschaft
 - nicht nur klicken
 - wirklich verstehen
-- und danach eigenstaendig weiterbauen koennen
+- und danach eigenständig weiterbauen können

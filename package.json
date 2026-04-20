@@ -1,0 +1,28 @@
+{
+  "name": "fab-oekologisch-leben-keynote",
+  "version": "1.0.0",
+  "description": "Delivery bundle for the FAB keynote and workshop package around `oekologisch-leben.org`, Google AI Studio, portfolio building, and the challenge platform prompt.",
+  "main": "slides/fab-keynote-deck.js",
+  "scripts": {
+    "build:deck": "node slides/fab-keynote-deck.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egonso/fab-oekologisch-leben-keynote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Egonso/fab-oekologisch-leben-keynote/issues"
+  },
+  "homepage": "https://github.com/Egonso/fab-oekologisch-leben-keynote#readme",
+  "dependencies": {
+    "fontkit": "^2.0.4",
+    "linebreak": "^1.1.0",
+    "pptxgenjs": "^4.0.1",
+    "prismjs": "^1.30.0",
+    "skia-canvas": "^3.0.8"
+  }
+}

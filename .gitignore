@@ -5,3 +5,8 @@ __pycache__/
 tmp/
 rendered/
 exports/
+node_modules/
+slides/ql-stage/
+slides/rendered/
+slides/rendered_pdf/
+slides/rendered_stage/
