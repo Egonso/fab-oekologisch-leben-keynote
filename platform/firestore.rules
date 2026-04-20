@@ -1,0 +1,186 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function userDoc(uid) {
+      return get(/databases/$(database)/documents/users/$(uid)).data;
+    }
+
+    function isAdmin() {
+      return isSignedIn()
+        && exists(/databases/$(database)/documents/users/$(request.auth.uid))
+        && userDoc(request.auth.uid).role == 'admin';
+    }
+
+    function isActiveParticipant() {
+      return isSignedIn()
+        && exists(/databases/$(database)/documents/users/$(request.auth.uid))
+        && userDoc(request.auth.uid).isActive == true;
+    }
+
+    function settings() {
+      return get(/databases/$(database)/documents/settings/config).data;
+    }
+
+    function phaseIs(p) {
+      return settings().currentPhase == p;
+    }
+
+    function inviteCodeRef(code) {
+      return /databases/$(database)/documents/inviteCodes/$(code);
+    }
+
+    function signupUserAfter(uid) {
+      return getAfter(/databases/$(database)/documents/users/$(uid)).data;
+    }
+
+    function isValidSignupForCode(uid, code) {
+      return exists(inviteCodeRef(code))
+        && !exists(/databases/$(database)/documents/users/$(uid))
+        && resource.data.isActive == true
+        && resource.data.isActive == request.resource.data.isActive
+        && resource.data.code == request.resource.data.code
+        && resource.data.role == request.resource.data.role
+        && resource.data.maxUses == request.resource.data.maxUses
+        && resource.data.label == request.resource.data.label
+        && request.resource.data.usedCount == resource.data.usedCount + 1
+        && request.resource.data.usedCount <= resource.data.maxUses
+        && signupUserAfter(uid).inviteCodeUsed == code
+        && signupUserAfter(uid).role == resource.data.role
+        && signupUserAfter(uid).isActive == true;
+    }
+
+    function isBootstrapSettingsCreate() {
+      return !exists(/databases/$(database)/documents/settings/config)
+        && request.resource.data.currentPhase == 'registration'
+        && request.resource.data.submissionsOpen == false
+        && request.resource.data.votingOpen == false;
+    }
+
+    function isBootstrapInviteCreate(code) {
+      return !exists(inviteCodeRef(code))
+        && request.resource.data.code == code
+        && request.resource.data.isActive == true
+        && request.resource.data.usedCount == 0
+        && (
+          (
+            code == 'ADMIN-BOOT-2026'
+            && request.resource.data.role == 'admin'
+            && request.resource.data.maxUses == 1
+          )
+          || (
+            code in ['FAB-DEMO-1', 'FAB-DEMO-2', 'FAB-DEMO-3']
+            && exists(inviteCodeRef('ADMIN-BOOT-2026'))
+            && get(inviteCodeRef('ADMIN-BOOT-2026')).data.usedCount == 0
+            && request.resource.data.role == 'participant'
+            && request.resource.data.maxUses == 5
+          )
+        );
+    }
+
+    // users ------------------------------------------------
+    match /users/{uid} {
+      // Anyone signed in can read their own doc. Admin reads all.
+      allow read: if isSignedIn() && (request.auth.uid == uid || isAdmin());
+      // A user can only create their own doc during sign-up.
+      allow create: if isSignedIn()
+        && request.auth.uid == uid
+        && request.resource.data.role in ['admin', 'participant']
+        && request.resource.data.authProvider == 'password'
+        && request.resource.data.isActive == true
+        && request.resource.data.inviteCodeUsed is string
+        && exists(inviteCodeRef(request.resource.data.inviteCodeUsed))
+        && get(inviteCodeRef(request.resource.data.inviteCodeUsed)).data.isActive == true
+        && get(inviteCodeRef(request.resource.data.inviteCodeUsed)).data.usedCount
+            < get(inviteCodeRef(request.resource.data.inviteCodeUsed)).data.maxUses
+        && request.resource.data.role
+            == get(inviteCodeRef(request.resource.data.inviteCodeUsed)).data.role
+        && getAfter(inviteCodeRef(request.resource.data.inviteCodeUsed)).data.usedCount
+            == get(inviteCodeRef(request.resource.data.inviteCodeUsed)).data.usedCount + 1;
+      // A user can only update their own fullName. Admin can update anything.
+      allow update: if isAdmin()
+        || (isSignedIn() && request.auth.uid == uid
+            && request.resource.data.role == resource.data.role
+            && request.resource.data.isActive == resource.data.isActive);
+      allow delete: if isAdmin();
+    }
+
+    // inviteCodes ------------------------------------------
+    match /inviteCodes/{code} {
+      // Public read is allowed so the sign-up page can validate a code before use.
+      // We do not expose any secrets in this collection.
+      allow read: if true;
+      allow create: if isAdmin() || isBootstrapInviteCreate(code);
+      allow delete: if isAdmin();
+      allow update: if isAdmin()
+        || (isSignedIn()
+            && request.auth.uid != null
+            && isValidSignupForCode(request.auth.uid, code));
+    }
+
+    // settings ---------------------------------------------
+    match /settings/{doc} {
+      allow read: if true;
+      allow create: if doc == 'config' && (isAdmin() || isBootstrapSettingsCreate());
+      allow update, delete: if isAdmin();
+    }
+
+    // submissions ------------------------------------------
+    match /submissions/{id} {
+      // Admins always see everything.
+      // Participants see their own always.
+      // Other participants see submissions only when phase is voting or results
+      // and only if the submission is submitted.
+      allow read: if isAdmin()
+        || (isSignedIn() && resource.data.userId == request.auth.uid)
+        || (isActiveParticipant()
+            && (phaseIs('voting') || phaseIs('results'))
+            && resource.data.status == 'submitted');
+
+      // A participant can create at most one submission for themselves,
+      // and only during the submission phase.
+      allow create: if isActiveParticipant()
+        && request.resource.data.userId == request.auth.uid
+        && id == request.auth.uid
+        && phaseIs('submission')
+        && settings().submissionsOpen == true;
+
+      // A participant can update their own submission while the phase is submission.
+      allow update: if isAdmin()
+        || (isActiveParticipant()
+            && id == request.auth.uid
+            && resource.data.userId == request.auth.uid
+            && phaseIs('submission')
+            && request.resource.data.userId == resource.data.userId);
+
+      allow delete: if isAdmin();
+    }
+
+    // votes ------------------------------------------------
+    match /votes/{id} {
+      // A participant can read their own vote. Admin reads all.
+      // During the public results phase, all active participants may read all votes
+      // so the client can compute the leaderboard without a server function.
+      allow read: if isAdmin()
+        || (isSignedIn() && resource.data.voterUserId == request.auth.uid)
+        || (isActiveParticipant() && phaseIs('results'));
+
+      // A participant can write their own vote only when voting is open.
+      // Doc id is the voter uid so one vote per user is enforced.
+      allow create, update: if isActiveParticipant()
+        && id == request.auth.uid
+        && request.resource.data.voterUserId == request.auth.uid
+        && phaseIs('voting')
+        && settings().votingOpen == true
+        // must not vote for self
+        && !(request.auth.uid in request.resource.data.rankedSubmissionIds);
+
+      allow delete: if isAdmin();
+    }
+  }
+}
